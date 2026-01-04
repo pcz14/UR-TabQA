@@ -1,0 +1,24 @@
+# Model Configuration File
+# Configured for Server Test Environment
+
+# -----------------------------------------------------------------------------
+# Active Configuration
+# -----------------------------------------------------------------------------
+
+# Judge Model (Evaluation)
+# Using Qwen2.5-32B as the judge for testing purposes (based on Image 3)
+judge_model:
+  model_name: "qwen2.5-72b-instruct"
+  api_key: "sk-d71d48f51cff44b7b1f0df164de7d1ea"
+  base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+
+# Inference Model (Generation)
+# Using Qwen3-32B for inference (based on Image 2)
+infer_model:
+  model_name: "gpt-5.2"
+  api_key: ""
+  base_url: "https://api.agicto.cn/v1"
+
+  # model_name: "qwen-flash"
+  # api_key: ""
+  # base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"

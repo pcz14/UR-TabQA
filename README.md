@@ -15,7 +15,7 @@ TabCodeRL incorporates a CodeBLEU-based reward function that provides step-level
 
 ## Dataset & Parameter Preview
 
-The **ReasonTabQA_samples.zip** file contains sample tables from our benchmark, showcasing the four industrially relevant table types. These examples illustrate the challenging nature of table structures and reasoning requirements encountered in practical applications.
+The benchmark's dataset is organized in the `data` directory, split into `ch` (Chinese) and `en` (English) subdirectories. Both subdirectories contain train/test datasets, supervised fine-tuning (SFT) files, and authentic tables spanning 30 diverse domains, showcasing the four industrially relevant table types (single tables, multiple tables, complex structured tables, extremely large-scale tables).
 
 The **tabcoderl_trainer.yaml** file provides key parameter configurations for the reinforcement learning training process within our TabCodeRL framework, serving as a practical reference for model adaptation and evaluation.
 
