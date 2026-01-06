@@ -5,7 +5,7 @@
 We introduce ReasonTabQA, a comprehensive and industrially-grounded benchmark designed to advance table question answering (Table QA) research under real-world settings. It integrates authentic tables spanning 30 diverse domains and covers four critical table types—single tables, multiple tables, complex structured tables, and extremely large-scale tables. The benchmark is further supported by two specially curated supervised fine-tuning (SFT) datasets that include complete reasoning traces and ground-truth annotations.
 To the best of our knowledge, no prior benchmark has been proposed in a form that aligns so closely with genuine industrial scenarios and challenges.
 
-We evaluate 26 competitive baseline methods on ReasonTabQA. Experimental results indicate that even the top-performing model, Doubao-1.5-thinking-pro, attains only 64.48% in overall accuracy. This underscores the substantial challenge posed by real-world industrial Table QA and highlights the need for more robust and specialized solutions.
+We evaluate 29 competitive baseline methods on ReasonTabQA. Experimental results indicate that even the top-performing model, Gemini-3-pro-preview, attains only 67.58% in overall accuracy. This underscores the substantial challenge posed by real-world industrial Table QA and highlights the need for more robust and specialized solutions.
 
 ## The TabCodeRL Framework
 
