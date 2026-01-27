@@ -66,18 +66,8 @@ def json_default(obj):
 def extract_filepaths_from_code(code: str) -> list:
     """Extract file paths from pd.read_csv calls in the code using AST"""
     
-    # Pre-processing: Extract code from markdown blocks if present
-    # This avoids AST syntax errors on markdown backticks
-    cleaned_code = extract_python_code(code)
-    if cleaned_code:
-        code = cleaned_code
-    else:
-        # Fallback: try to remove ``` even if 'python' tag is missing
-        # This handles cases where model outputs code block without language identifier
-        pattern_loose = r"```(.*?)```"
-        code_blocks = re.findall(pattern_loose, code, re.DOTALL)
-        if code_blocks:
-            code = "\n".join(code_blocks)
+    # Note: Code cleaning is now handled by the caller (compute_score)
+    # We operate directly on the provided code string.
     
     paths = []
     
@@ -86,31 +76,52 @@ def extract_filepaths_from_code(code: str) -> list:
             self.paths = []
             self.assignments = {} # variable_name -> string_value
 
+        def _resolve_node_value(self, node):
+            """Helper to resolve a node to a string value if possible."""
+            try:
+                if isinstance(node, ast.Constant): # python 3.8+
+                    return node.value
+                elif isinstance(node, ast.Str): # python < 3.8
+                    return node.s
+                elif isinstance(node, ast.Name):
+                    return self.assignments.get(node.id, None)
+                elif isinstance(node, ast.JoinedStr):
+                    # Try to resolve f-string: f"foo" or f"{var}"
+                    parts = []
+                    for val in node.values:
+                        res = self._resolve_node_value(val)
+                        if res is not None:
+                            parts.append(str(res))
+                        else:
+                            return None # Cannot resolve full string
+                    return "".join(parts)
+                elif isinstance(node, ast.FormattedValue):
+                    return self._resolve_node_value(node.value)
+                elif isinstance(node, ast.BinOp) and isinstance(node.op, ast.Add):
+                    # Handle string concatenation: "a" + "b"
+                    left = self._resolve_node_value(node.left)
+                    right = self._resolve_node_value(node.right)
+                    if left is not None and right is not None:
+                        return str(left) + str(right)
+            except Exception:
+                return None
+            return None
+
         def visit_Assign(self, node):
-            # Handle var = 'string'
-            # Also handle simple tuple unpacking like a, b = "x", "y" if needed, but keeping it simple for now
-            for target in node.targets:
-                if isinstance(target, ast.Name):
-                    var_name = target.id
-                    if isinstance(node.value, ast.Constant): # python 3.8+
-                        self.assignments[var_name] = node.value.value
-                    elif isinstance(node.value, ast.Str): # python < 3.8
-                        self.assignments[var_name] = node.value.s
-                    # Handle var = other_var
-                    elif isinstance(node.value, ast.Name) and node.value.id in self.assignments:
-                        self.assignments[var_name] = self.assignments[node.value.id]
+            # Handle var = ...
+            val = self._resolve_node_value(node.value)
+            if val is not None:
+                for target in node.targets:
+                    if isinstance(target, ast.Name):
+                        self.assignments[target.id] = val
             self.generic_visit(node)
             
         def visit_AnnAssign(self, node):
-             # Handle var: type = 'string'
+             # Handle var: type = ...
              if isinstance(node.target, ast.Name) and node.value:
-                 var_name = node.target.id
-                 if isinstance(node.value, ast.Constant):
-                     self.assignments[var_name] = node.value.value
-                 elif isinstance(node.value, ast.Str):
-                     self.assignments[var_name] = node.value.s
-                 elif isinstance(node.value, ast.Name) and node.value.id in self.assignments:
-                     self.assignments[var_name] = self.assignments[node.value.id]
+                 val = self._resolve_node_value(node.value)
+                 if val is not None:
+                     self.assignments[node.target.id] = val
              self.generic_visit(node)
 
         def visit_Call(self, node):
@@ -137,24 +148,18 @@ def extract_filepaths_from_code(code: str) -> list:
                             break
                 
                 if found_arg:
-                    # Case 1: pd.read_csv('constant')
-                    if isinstance(found_arg, ast.Constant):
-                        self.paths.append(found_arg.value)
-                    elif isinstance(found_arg, ast.Str):
-                        self.paths.append(found_arg.s)
-                    # Case 2: pd.read_csv(variable)
+                    val = self._resolve_node_value(found_arg)
+                    if val is not None:
+                        self.paths.append(val)
                     elif isinstance(found_arg, ast.Name):
-                        if found_arg.id in self.assignments:
-                            self.paths.append(self.assignments[found_arg.id])
-                        else:
-                            # If variable is not found in local assignments, it might be a global or 
-                            # defined in a way we missed. But for simple scripts, it's usually there.
-                            print(f"[DEBUG] Variable '{found_arg.id}' used in read_csv but not found in assignments: {list(self.assignments.keys())}")
-                            pass
+                         # If variable is not found in local assignments
+                         # print(f"[DEBUG] Variable '{found_arg.id}' used in read_csv but not found in assignments")
+                         pass
             
             self.generic_visit(node)
 
     try:
+        # print(f"[DEBUG] Parsing code for AST:\n{code}")
         tree = ast.parse(code)
         visitor = FilePathVisitor()
         visitor.visit(tree)
@@ -163,24 +168,24 @@ def extract_filepaths_from_code(code: str) -> list:
         print(f"AST parsing failed: {e}, falling back to regex")
         pass
         
-    # Fallback to regex if AST missed something or failed (e.g. syntax error in code)
-    if not paths:
-        # Regex for direct string: pd.read_csv("path")
-        pattern_direct = r"pd\.read_csv\s*\(\s*['\"]([^'\"]+)['\"]"
-        paths.extend(re.findall(pattern_direct, code))
-        
-        # Regex for simple variable assignment (heuristic fallback)
-        # var = 'path' ... pd.read_csv(var)
-        # 1. Find all pd.read_csv(var_name)
-        pattern_var_usage = r"pd\.read_csv\s*\(\s*([a-zA-Z_][a-zA-Z0-9_]*)\s*\)"
-        used_vars = re.findall(pattern_var_usage, code)
-        for var in used_vars:
-            # 2. Find last assignment to this var: var = 'path'
-            # This is tricky with regex, but we try a simple backward search or just find all
-            pattern_assign = r"{}\s*=\s*['\"]([^'\"]+)['\"]".format(re.escape(var))
-            assigned_vals = re.findall(pattern_assign, code)
-            if assigned_vals:
-                paths.append(assigned_vals[-1]) # Take the last one found
+    # Always run regex as backup/supplement
+    # Regex for direct string: pd.read_csv("path") or pd.read_csv(f"path") or pd.read_csv(r"path")
+    # Allow optional f or r or fr prefix before quotes
+    pattern_direct = r"pd\.read_csv\s*\(\s*[frFR]*['\"]([^'\"]+)['\"]"
+    paths.extend(re.findall(pattern_direct, code))
+    
+    # Regex for simple variable assignment (heuristic fallback)
+    # var = 'path' ... pd.read_csv(var)
+    # 1. Find all pd.read_csv(var_name)
+    pattern_var_usage = r"pd\.read_csv\s*\(\s*([a-zA-Z_][a-zA-Z0-9_]*)\s*\)"
+    used_vars = re.findall(pattern_var_usage, code)
+    for var in used_vars:
+        # 2. Find last assignment to this var: var = 'path'
+        # Handle var = f"..." or var = r"..."
+        pattern_assign = r"{}\s*=\s*[frFR]*['\"]([^'\"]+)['\"]".format(re.escape(var))
+        assigned_vals = re.findall(pattern_assign, code)
+        if assigned_vals:
+            paths.append(assigned_vals[-1]) # Take the last one found
 
     final_paths = list(set(paths))
     print(f"[DEBUG] Extracted paths: {final_paths} from code length {len(code)}")
@@ -197,14 +202,13 @@ def compute_filepath_reward(code_filepaths, gt_filepaths) -> float:
     
     if not code_filepaths:
         return 0.0
-    
+
     # Normalize paths: use basenames to avoid relative/absolute path mismatches
     # e.g. "data/table.csv" vs "/tmp/data/table.csv" should match
     code_paths_set = set(os.path.basename(p.strip()) for p in code_filepaths)
     gt_paths_set = set(os.path.basename(p.strip()) for p in gt_filepaths)
     
     # Calculate intersection based on BASENAMES
-    # Let's use Recall-based logic scaled to 0.5: (Matched / Total_GT) * 0.5
     matched = code_paths_set.intersection(gt_paths_set)
     recall = len(matched) / len(gt_paths_set) if gt_paths_set else 0.0
     
@@ -217,12 +221,10 @@ def code_format_eval(prediction):
     else:
         return False
 
-
-def code_exec_result(prediction):
-    prediction = extract_python_code(prediction)
+def code_exec_result(code):
     print('-'* 50)
-    print("Cleaned Code:\n{}".format(prediction))
-    result, error_message = execute_python_code(prediction)
+    # print("Cleaned Code:\n{}".format(code)) # Printed in compute_score now
+    result, error_message = execute_python_code(code)
     print("Exec result:{}".format(result))
     print("Exec error:{}".format(error_message))
     print('-'* 50)
@@ -330,11 +332,23 @@ def compute_score(solution_str, ground_truth, extra_info=None) -> float:
         try:
             code_str = solution_str.split("</think>")[-1].replace("<|im_end|>", "").replace("<｜end▁of▁sentence｜>", "").replace("<_end>", "").replace("<|endoftext|>", "").strip()
             
-            # Compute filepath reward
-            code_filepaths = extract_filepaths_from_code(code_str)
+            # 1. Clean Code
+            cleaned_code = extract_python_code(code_str)
+            print('-'* 50)
+            print("Cleaned Code:\n{}".format(cleaned_code))
+
+            # 2. Compute filepath reward
+            # Use cleaned code if available, otherwise fallback to raw code (for recall)
+            path_source = cleaned_code if cleaned_code else code_str
+            if not cleaned_code:
+                print("[DEBUG] No code blocks found, extracting paths from raw text.")
+                
+            code_filepaths = extract_filepaths_from_code(path_source)
             filepath_score = compute_filepath_reward(code_filepaths, gt_filepath_list)
             
-            exec_result, error_message = code_exec_result(code_str)
+            # 3. Execute
+            exec_result, error_message = code_exec_result(cleaned_code)
+            
             if exec_result:  # execute_correct
                 execute_score = 0.5
                 if '1' in api_reward_model(question, exec_result, ground_truth): # answer correct
@@ -358,7 +372,7 @@ def compute_score(solution_str, ground_truth, extra_info=None) -> float:
     total_score = format_score + execute_score + answer_score + codebleu_score + filepath_score
     # Max score breakdown: -0.5 (format) + 0.5 (exec) + 3.0 (answer) + 0.5 (filepath) = 3.5
     # We require strictly correct execution and file usage for ACC.
-    acc = total_score == 3.5 
+    acc = total_score >= 3.0 
     # dict_scores = {'format': format_score, 'execute': execute_score, 'answer': answer_score}
 
     return {'score': total_score, 'format': format_score, 'execute': execute_score, 'answer': answer_score,'codebleu': codebleu_score, 'filepath': filepath_score, 'acc': acc}  # total_score, dict_scores

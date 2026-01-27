@@ -345,7 +345,7 @@ class RayPPOTrainer:
 
         self._validate_config()
         self._create_dataloader(train_dataset, val_dataset, collate_fn, train_sampler)
-        self.reward_upper_bound = {'format': -0.5, 'execute': 0.5, 'answer': 3.0,'codebleu': 0.0}
+        self.reward_upper_bound = {'format': -0.5, 'execute': 0.5, 'answer': 3.0, 'codebleu': 0.0, 'filepath': 0.5}
 
     def _validate_config(self):
         config = self.config

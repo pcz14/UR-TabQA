@@ -145,7 +145,7 @@ class DAPORewardManager:
                 print(f"    Filepath: {dict_scores.get('filepath', 0.0):.2f}")
                 
                 # 如果答案正确，保存代码
-                # 修改：使用严格的 acc (Total=3.5) 作为判断标准，确保路径和答案都正确才算 Correct
+                # 修改：使用 acc (Total>=3.0) 作为判断标准，确保答案正确才算 Correct
                 if dict_scores.get('acc', False):
                     try:
                         # 提取代码

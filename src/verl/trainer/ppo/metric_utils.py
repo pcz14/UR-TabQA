@@ -181,7 +181,7 @@ def compute_data_metrics(batch: DataProto, use_critic: bool = True, reward_extra
     # Dict[List[batch_size,]]
     print('batch.non_tensor_batch', len(batch.non_tensor_batch.keys()), batch.non_tensor_batch.keys())
     for key, value in batch.non_tensor_batch.items():
-        if key in ['format', 'execute', 'answer']:
+        if key in ['format', 'execute', 'answer', 'filepath']:
             metrics[f"train-reward/{key}/mean"] = sum(value)/len(value)
             metrics[f"train-acc/{key}/ratio"] = sum(np.array(value) == reward_upper_bound.get(key, 1))/len(value)
         if key in ['reward', 'score']:
