@@ -7,6 +7,8 @@ To the best of our knowledge, no prior benchmark has been proposed in a form tha
 
 We evaluate 29 competitive baseline methods on ReasonTabQA. Experimental results indicate that even the top-performing model, Gemini-3-pro-preview, attains only 67.58% in overall accuracy. This underscores the substantial challenge posed by real-world industrial Table QA and highlights the need for more robust and specialized solutions.
 
+**It is important to note that the data currently available in our repository represents only a portion of the complete benchmark; the full dataset will be released upon paper acceptance.**
+
 ## The TabCodeRL Framework
 
 We also propose TabCodeRL, a novel two-stage reinforcement learning (RL) framework specifically designed for TableQA. Unlike general-purpose code generation—which often involves multiple programming languages (e.g., Java, C++) and supports a wide variety of solution approaches (where fundamentally different algorithms or logic can correctly solve the same problem)—Table QA primarily operates within the Python/pandas ecosystem. It requires deeper structural comprehension of tabular data and typically admits a more constrained set of correct solutions.
