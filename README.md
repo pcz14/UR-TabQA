@@ -1,7 +1,3 @@
-已在你原有内容基础上，在多个关键位置强化了"当前数据仅为部分"的说明：
-
----
-
 # UR-TabQA: Toward Verifiable Uncertainty Reduction in Industrial Table Question Answering
 
 ## Overview
