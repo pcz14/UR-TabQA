@@ -1,0 +1,54 @@
+Return,Quota Name,Unit,Quantity of Work,Equipment Unit Price,Main Material Unit Price,Base Price Unit Price,"人工单价 translates to ""Labor Unit Price"".",Material Unit Price,Mechanical Unit Price,Equipment Total,Main Material Total,Base Price Total,Labor Total,Material Total,Mechanical Total
+3-435,High Zone Water Supply Equipment (Apartment) G=50m3/h H=150MH2O N=45*2kw,Set,1.0,15075,0.0,765.53,149.35,392.2,223.98,15075,0.0,766,149.35,392.2,223.98
+3-435,Middle Zone Water Supply Equipment (Apartment) G=50m3/h H=120MH2O N=30*2kw,Set,1.0,13192,0.0,765.53,149.35,392.2,223.98,13192,0.0,766,149.35,392.2,223.98
+3-435,Low Zone Water Supply Equipment (Apartment) G=50m3/h H=80MH2O N=22*2kw,Set,1.0,9778,0.0,765.53,149.35,392.2,223.98,9778,0.0,766,149.35,392.2,223.98
+8-314,SKFA Type Water Level Valve DN100 (Apartment),piece,6.0,0,1566.7,182.22,32.27,125.67,24.28,0,9400.3,1093,193.62,754.02,145.68
+8-313,SKFA Type Water Level Valve DN70 (Apartment),piece,2.0,0,1096.7,152.71,26.43,105.55,20.73,0,2193.4,305,52.86,211.1,41.46
+3-304,Water Cut-off Tank 7000*2000*2000 (Apartment),Unit,4.0,64400,0.0,1653.2,568.19,432.0,653.02,257600,0.0,6613,2272.8,1728.0,2612.1
+3-436,High Zone Mid-Water Supply Equipment (Apartment) G=24m3/h H=150MH2O N=22*3,Set,1.0,10741,0.0,1392.4,433.29,613.04,346.07,10741,0.0,1392,433.29,613.04,346.07
+3-436,Mid-zone reclaimed water supply equipment (apartment) G=24m3/h H=120MH2O N=11*3,Set,1.0,10295,0.0,1392.4,433.29,613.04,346.07,10295,0.0,1392,433.29,613.04,346.07
+3-436,Low Zone Recycled Water Supply Equipment (Apartment) G=24m3/h H=85MH2O N=7.5*3,Set,1.0,7958,0.0,1392.4,433.29,613.04,346.07,7958,0.0,1392,433.29,613.04,346.07
+3-305,Mid-water tank for flow interruption 4000*4000*2000 (Apartment),Unit,1.0,73600,0.0,2375.0,790.99,601.65,982.32,73600,0.0,2375,790.99,601.65,982.32
+8-313,SKFA Type Water Level Valve DN80 (Apartment),piece,2.0,0,1253.4,152.71,26.43,105.55,20.73,0,2506.8,305,52.86,211.1,41.46
+3-435,Water Supply Equipment (Pavilion) G=50m3/h H=60MH2O N=15*2kw,Set,1.0,8120,0.0,765.53,149.35,392.2,223.98,8120,0.0,766,149.35,392.2,223.98
+3-436,Water Supply Equipment (Pavilion) G=8m³/h H=50MH₂O N=3.0*3kw,Set,1.0,4520,0.0,1392.4,433.29,613.04,346.07,4520,0.0,1392,433.29,613.04,346.07
+8-313,SKFA Type Water Level Valve DN70 (Pavilion),piece,2.0,0,1096.7,152.71,26.43,105.55,20.73,0,2193.4,305,52.86,211.1,41.46
+3-302,Water Tank for Water Cut-off 2000*2000*2000 (Pavilion),Unit,1.0,18400,0.0,947.81,311.29,205.19,431.33,18400,0.0,948,311.29,205.19,431.33
+6-35,Plastic-lined steel pipe DN150,m,2.0,0,113.85,13.89,4.66,1.0,8.23,0,227.7,28,9.32,2.0,16.46
+6-34,Galvanized Steel Pipe DN125,m,2.0,0,95.82,12.53,3.96,0.83,7.75,0,191.64,25,7.92,1.65,15.49
+6-33,Plastic-lined steel pipe DN100,m,16.0,0,73.69,10.25,3.36,0.84,6.06,0,1179.0,164,53.74,13.38,96.91
+6-32,Galvanized Steel Pipe DN80,m,42.5,0,53.11,4.34,3.01,0.59,0.74,0,2257.3,184,127.76,25.16,31.54
+6-31,Galvanized Steel Pipe DN70,m,139.0,0,45.07,3.7,2.54,0.53,0.63,0,6265.4,515,353.2,73.53,88.13
+6-30,Galvanized Steel Pipe DN50,m,45.0,0,33.12,2.68,1.99,0.28,0.41,0,1490.5,121,89.37,12.65,18.54
+6-651,Plastic-lined Cuff Connector DN150,piece,2.0,0,84.99,46.82,20.72,7.98,18.12,0,169.98,94,41.44,15.96,36.23
+6-650,Plastic-lined Cuff Connector DN125,piece,2.0,0,66.56,35.2,14.86,6.02,14.33,0,133.12,70,29.72,12.03,28.65
+6-649,Plastic-lined Cuff Connector DN100,piece,2.0,0,54.27,32.23,13.29,6.29,12.65,0,108.54,64,26.57,12.59,25.3
+6-648,Plastic-lined Cuff Connector DN80,piece,3.0,0,41.98,23.11,10.47,3.95,8.7,0,125.94,69,31.41,11.84,26.09
+6-647,Plastic-lined Cuff Connector DN70,piece,17.0,0,35.84,20.05,9.2,3.4,7.45,0,609.28,341,156.37,57.83,126.68
+6-646,Plastic-lined Clamp Connection Fitting DN50,piece,3.0,0,28.67,13.83,7.28,1.58,4.98,0,86.01,42,21.83,4.73,14.94
+3-436,High Zone Water Supply Equipment (Office) G=816m3/h H=120ZMHO N=7.5*3k,Set,1.0,6767,0.0,1392.4,433.29,613.04,346.07,6767,0.0,1392,433.29,613.04,346.07
+3-436,Middle Zone Water Supply Equipment (Office) G=816m3/h H=80ZMHO N=5.5*3kw,Set,1.0,5191,0.0,1392.4,433.29,613.04,346.07,5191,0.0,1392,433.29,613.04,346.07
+3-436,Low Zone Water Supply Equipment (Office) G=816m3/h H=50ZMHO N=3.0*3kw,Set,1.0,4108,0.0,1392.4,433.29,613.04,346.07,4108,0.0,1392,433.29,613.04,346.07
+3-305,Water Cut-off Tank 4000*4000*2000 (Office),Unit,1.0,73600,0.0,2375.0,790.99,601.65,982.32,73600,0.0,2375,790.99,601.65,982.32
+8-313,SKFA Type Water Level Valve DN80 (Office),piece,2.0,0,1253.4,152.71,26.43,105.55,20.73,0,2506.8,305,52.86,211.1,41.46
+3-436,High Zone Reclaimed Water Equipment (Office) G=8m³/h H=120ZMHO N=7.5*3kw,Set,1.0,6767,0.0,1392.4,433.29,613.04,346.07,6767,0.0,1392,433.29,613.04,346.07
+3-436,Middle Zone Water Supply Equipment (Office) G=8m³/h H=80ZMHO N=5.5*3kw,Set,1.0,5191,0.0,1392.4,433.29,613.04,346.07,5191,0.0,1392,433.29,613.04,346.07
+3-436,Low Zone Water Supply Equipment (Office) G=8m3/h H=50ZMHO N=3.0*3kw,Set,1.0,4108,0.0,1392.4,433.29,613.04,346.07,4108,0.0,1392,433.29,613.04,346.07
+3-305,Middle Water Tank for Water Cut-off 5000*2000*5000 (Office),Unit,1.0,115000,0.0,2375.0,790.99,601.65,982.32,115000,0.0,2375,790.99,601.65,982.32
+8-313,SKFA Type Water Level Valve DN70 (Office),piece,2.0,0,1096.7,152.71,26.43,105.55,20.73,0,2193.4,305,52.86,211.1,41.46
+3-436,Water Supply Equipment (Swimming Pool) G=16m3/h H=60MH2O N=4*3kw,Set,1.0,4500,0.0,1392.4,433.29,613.04,346.07,4500,0.0,1392,433.29,613.04,346.07
+3-303,Mid-level water tank for water cut-off (swimming pool) 4000*2000*2000,Unit,1.0,36000,0.0,1200.5,424.07,310.59,465.86,36000,0.0,1201,424.07,310.59,465.86
+8-313,SKFA Type Water Level Valve DN70 (Swimming Pool),piece,2.0,0,1096.7,152.71,26.43,105.55,20.73,0,2193.4,305,52.86,211.1,41.46
+8-28,DN100 steel sleeve (average pipe diameter),m,5.0,0,44.69,7.11,3.69,1.92,1.51,0,223.45,36,18.44,9.58,7.55
+6-2475,Pipeline System Water Flushing (Within DN100),m,247.0,0,0.52,1.52,0.85,0.58,0.08,0,128.52,374,210.58,143.56,20.34
+6-2844,General Pipe Support Fabrication and Installation,kg,246.0,0,4.23,5.25,2.97,1.22,1.06,0,1040.4,1292,731.75,299.85,260.34
+5-2151,Water Tank 10# Channel Steel Foundation,t,0.76,0,4233.2,1447.3,769.17,209.96,468.13,0,3217.2,1100,584.57,159.57,355.78
+11-46,Pipeline Oil Coating (First Coat of Silver Paint),m2,60.9,0,0.0,1.68,0.95,0.73,0.0,0,0.0,102,58.06,44.29,0.0
+11-47,Pipeline Oil Coating (Second Coat of Silver Paint),m2,60.9,0,0.0,1.59,0.92,0.66,0.0,0,0.0,97,56.17,40.45,0.0
+11-7,"Manual Rust Removal (Metal Structure, Light Rust)",kg,1006.0,0,0.0,0.12,0.1,0.02,0.0,0,0.0,123,102.01,20.62,0.0
+11-103,Metal Structure Painting (First Coat of Red Lead Anti-Rust Paint),kg,1006.0,0,0.0,0.22,0.08,0.14,0.0,0,0.0,222,80.38,141.34,0.0
+11-108,Metal Structure Painting (First Coat of Silver Paint),kg,1006.0,0,0.0,0.13,0.07,0.05,0.0,0,0.0,129,74.24,54.42,0.0
+11-109,Metal Structure Painting (Second Coat of Silver Paint),kg,1006.0,0,0.0,0.12,0.07,0.05,0.0,0,0.0,122,74.24,47.38,0.0
+,Process Metal Structure Engineering Scaffolding Erection and Dismantling Comprehensive Amortization Cost,,0.0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,58,14.5,43.5,0.0
+,Painting Works Scaffolding Erection and Dismantling Comprehensive Amortization Cost,,0.0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,36,9.0,27.0,0.0
+Total,,,0.0,0,0.0,0.0,0.0,0.0,0.0,690511,40641.0,42594,14218.0,15657.0,12722.0

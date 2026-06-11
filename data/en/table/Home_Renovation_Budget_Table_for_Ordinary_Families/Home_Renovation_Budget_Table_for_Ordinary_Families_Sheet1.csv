@@ -1,0 +1,178 @@
+HomeRenovationBudgetTemplate-Budget,HomeRenovationBudgetTemplate-ActualTotal,HomeRenovationBudgetTemplate-Number,HomeRenovationBudgetTemplate-BudgetCategory,HomeRenovationBudgetTemplate-RenovationSteps(NumbersRepresenttheOrder),HomeRenovationBudgetTemplate-UnitPrice(Yuan),HomeRenovationBudgetTemplate-Discount,HomeRenovationBudgetTemplate-DiscountedPrice(Yuan),HomeRenovationBudgetTemplate-Quantity,HomeRenovationBudgetTemplate-Unit,HomeRenovationBudgetTemplate-Subtotal(Yuan)
+Budget,Actual Total,Number,Budget Category,Renovation Steps (Numbers Represent the Order),"Unit Price
+(Yuan)",Discount,"Discounted Price
+(Yuan)",Quantity,Unit,"Subtotal
+(Yuan)"
+"￥10,000",￥0,1,Basic renovation labor force,"1 Handle the commencement procedures (gas modification)  
+2 Self-measurement 3 Preliminary design 4 Main structure demolition and renovation",,,,,,
+,,Main Structure Demolition and Renovation,Interior Design,Preliminary Design,0,1,0,100,item,0
+,,Main Structure Demolition and Renovation,Enclosed Balcony,,0,1,0,1,item,0
+,,Main Structure Demolition and Renovation,Mason,"Wall building (living room, balcony), tile laying, stone processing, bathroom waterproofing",0,1,0,1,item,0
+,,Main Structure Demolition and Renovation,Carpentry,Balcony Wall Cabinet,0,1,0,1,item,0
+,,Main Structure Demolition and Renovation,Oil Worker,Balcony Wall Cabinet,0,1,0,1,item,0
+,,Main Structure Demolition and Renovation,Water and electricity,Water and electricity renovation,0,1,0,1,item,0
+,,Main Structure Demolition and Renovation,Big White,,0,1,0,1,item,0
+,,Main Structure Demolition and Renovation,Gas modification,,,1,0,1,item,0
+,,Main Structure Demolition and Renovation,Subtotal,,,,,,,0
+"￥5,000","￥3,100",2,Sliding Door for Wooden Door,5 Manufacturer's on-site measurement,Brand: ××× Door,Brand: ××× Door,Brand: ××× Door,Brand: ××× Door,Brand: ××× Door,Brand: ××× Door
+,,Door Manufacturer Measurement,Wooden door,"3 bedroom doors (including door frames, hinges, and locks)",0,1,0,3,Boring,0
+,,Door Manufacturer Measurement,Glass door,Two bathroom doors,800,1,800,2,Boring,1600
+,,Door Manufacturer Measurement,door frame molding,"Combined with sliding doors, entrance door frame",0,1,0,10,Linear meter,0
+,,Door Manufacturer Measurement,Window Sill Trim,Window Molding (Excluding Sanitary Ware),0,1,0,8,Linear meter,0
+,,Door Manufacturer Measurement,Sliding door,,1500,1,1500,1,Linear meter,1500
+,,Door Manufacturer Measurement,windowsill,Artificial stone countertop,0,1,0,18,Linear meter,0
+,,Door Manufacturer Measurement,Subtotal,,,,,,,3100
+"￥8,000","￥5,400",3,Cabinets,6 First cabinet measurement,Brand: ××× Kitchen Cabinet,Brand: ××× Kitchen Cabinet,Brand: ××× Kitchen Cabinet,Brand: ××× Kitchen Cabinet,Brand: ××× Kitchen Cabinet,Brand: ××× Kitchen Cabinet
+,,,Cabinets,,1000,1,1000,5,Linear meter,5000
+,,,Sink,,200,1,200,1,piece,200
+,,,Tap,,200,1,200,1,piece,200
+,,,Cubao,,0,1,0,1,Table,0
+,,,Subtotal,,,,,,,5400
+"￥2,000",￥0,4,Hidden Works,"7 Water and electricity renovation, 8 Bathroom waterproofing",,,,,,
+,,,Water and electricity renovation,"Masonry (living area, balcony), tile laying, stone processing",0,1,0,10,,0
+,,,Bathroom Waterproofing,,0,1,0,1,,0
+,,,Subtotal,,,,,,,0
+"￥1,000",￥0,5,Water and electricity materials,9 Main materials arrive on site,Brand: ××× Switch,Brand: ××× Switch,Brand: ××× Switch,Brand: ××× Switch,Brand: ××× Switch,Brand: ××× Switch
+,,,Switch,"South Bedroom 2 North Bedroom 1 East Bedroom 1 Living Room 2 Corridor 1  
+Dining Room 1 Kitchen 1 Master Bathroom 2 Guest Bathroom 2 Balcony 2  
+Octagonal Room 1",0,1,0,16,,0
+,,,outlet,"South bedroom 6 North bedroom 4 East bedroom 4 Living room 7 Corridor 1
+Dining room 2 Kitchen 8 Master bathroom 3 Guest bathroom 4
+Balcony 2 Octagonal room 1",0,1,0,42,,0
+,,,Wiring pipe,,,1,0,1,,0
+,,,Electric materials,,,1,0,1,,0
+,,,Pipe materials and fittings,,,1,0,1,,0
+,,,Home Intelligent System,Gas alarm,,1,0,1,,0
+,,,Subtotal,,,,,,,0
+"￥2,000",￥0,6,Basic building materials,"10 Carpenter window frame, threshold, painter painting",,,,,,
+,,,sand and cement,,0,1,0,1,,0
+,,,Brick,,0,1,0,1,,0
+,,,"Sheet: Sheet1  
+Column headers:  
+Row 1: Home Renovation Budget Template, , , , , , , , , ,  
+Row 2: Budget, Total Actual, No., Budget Category, Renovation Steps (Numbers Represent Order), Unit Price (RMB), Discount, Discounted Price (RMB), Quantity, Unit, Subtotal (RMB)  
+Row 3: , , , , , , , , , ,  
+Row 4: 10000, =K13, 1, Basic Renovation Labor, 1 Handle commencement procedures (gas modification) 2 Self-measurement 3 Preliminary design 4 Main structure demolition and modification, , , , , ,  
+Row 5: , , Main Structure Demolition and Modification, Renovation Design, Preliminary Design, 0, 1, =F5*G5, 100, Item, =H5*I5  
+
+Text to translate:  
+Sheet Material",Balcony Wall Cabinet,0,1,0,1,,0
+,,,Lines,"wood strip, gypsum strip",0,1,0,10,,0
+,,,Other woods,Balcony Wall Cabinet - Wooden Frame,0,1,0,1,,0
+,,,Drainage outlet,"Odor-proof floor drain - Bathroom 2, Kitchen 1",0,1,0,3,,0
+,,,Subtotal,,,,,,,0
+"￥4,000",￥0,7,Tiles,"11 Tile laying, threshold stone, window sill installation, floor drain",Brand: ××× Tiles,Brand: ××× Tiles,Brand: ××× Tiles,Brand: ××× Tiles,Brand: ××× Tiles,Brand: ××× Tiles
+,,,Kitchen Wall Tiles,7.63×2.5=19.05M2,0,1,0,19,,0
+,,,Kitchen Floor Tiles,2.2*3=6.6M2  (300*300),0,1,0,7,,0
+,,,Wall Tile for Bathroom,Main bathroom 20 + guest bathroom 24 = 48M2 (250*350),0,1,0,48,,0
+,,,Bathroom floor tiles,Main bathroom 3.64 + Guest bathroom 4.11 = 8M2,0,1,0,8,,0
+,,,Balcony Wall Tiles,1.4*3=4M2,0,1,0,4,,0
+,,,Balcony Floor Tiles,1.2*7.2=8.64M2,0,1,0,9,,0
+,,,Subtotal,,,,,,,0
+,,9,Paint,14 Paint walls,,,,,,
+"￥1,800",,,Latex Primer Paint,,3000,1,3000,1,,3000
+"￥1,800",,,Latex paint finish,,0,1,0,8,,0
+"￥1,800",,,Color-adjusting paint,,0,1,0,1,,0
+,,,Wood finish paint,,0,1,0,1,,0
+,,,Adhesive,,0,1,0,1,,0
+,,,Paint Accessories,,0,1,0,1,,0
+,,,Painting tools,,0,1,0,1,,0
+,,,Subtotal,,,,,,,3000
+"￥4,000","￥1,500",10,Ceiling suspension,"15 Kitchen and bathroom suspended ceiling, 16 Gas connection",Brand: ××× Ceiling,Brand: ××× Ceiling,Brand: ××× Ceiling,Brand: ××× Ceiling,Brand: ××× Ceiling,Brand: ××× Ceiling
+,,,PVC ceiling,"Kitchen, two bathrooms",100,1,100,15,,1500
+,,,Lighting Fixtures,,0,1,0,3,,0
+,,,Exhaust Fan,,0,1,0,1,,0
+,,,Warming Light,,0,1,0,2,,0
+,,,Subtotal,,,,,,,1500
+"￥14,000",￥0,11,Flooring (95M2),"Installation 17 cabinets, 18 wooden doors, 19 floorings",Brand: ××× Flooring,Brand: ××× Flooring,Brand: ××× Flooring,Brand: ××× Flooring,Brand: ××× Flooring,Brand: ××× Flooring
+,,,Living room floor,,0,1,0,43,,0
+,,,Master bedroom floor,,0,1,0,29,,0
+,,,Study Room Floor,,0,1,0,10,,0
+,,,Bedroom Floor,,0,1,0,14,,0
+,,,Flooring Accessories,Baseboard,0,1,0,63,,0
+,,,Subtotal,,,,,,,0
+"￥1,500","￥2,000",12,Lighting Fixtures,"Install 20 switches and sockets, 21 lights",,,,,,
+,,,Ceiling-mounted light,Bedroom 3,200,1,200,3,,600
+,,,Ceiling-mounted light,Balcony 2 Octagon 1,0,1,0,3,,0
+,,,Chandelier,Living Room 1,500,1,500,1,,500
+,,,Floor lamp,Living Room 1,20,1,20,20,,400
+,,,Dining Room Light,Dining Room 1 (Also Entrance Hall),500,1,500,1,,500
+,,,Hallway light,Corridor 2,0,1,0,2,,0
+,,,Table Lamp,Lamp 3,0,1,0,3,,0
+,,,Subtotal,(Toilet lighting and suspended ceiling are calculated together),,,,,,2000
+￥800,￥0,13,Hardware,22 Hardware Items,,,,,,
+,,,Conventional fasteners,,0,1,0,1,,0
+,,,Home Hardware,Tools,0,1,0,1,,0
+,,,Door-related hardware,(Lock),0,1,0,5,,0
+,,,Lock,"(Security lock, replaced after renovation)",0,1,0,1,,0
+,,,Safety supplies,,0,1,0,1,,0
+,,,Subtotal,,,,,,,0
+"￥1,800","￥1,400",14,Bathroom fixtures,23 Bathroom Fixtures,Brand: ××× Sanitary Ware,Brand: ××× Sanitary Ware,Brand: ××× Sanitary Ware,Brand: ××× Sanitary Ware,Brand: ××× Sanitary Ware,Brand: ××× Sanitary Ware
+,,,Showerhead,,600,1,600,1,,600
+,,Ceramic,Toilet seat,,0,1,0,2,,0
+,,Ceramic,Bathtub,1500×750,0,1,0,1,,0
+,,Ceramic,Column Basin,,0,1,0,1,,0
+,,,Towel Bar,,0,1,0,1,,0
+,,Package 1,Hand Basin,,600,1,600,1,,600
+,,Package 1,Bathroom cabinet,,0,1,0,1,,0
+,,Package 1,Towel Bar,,0,1,0,1,,0
+,,Package 1,Mirror,,200,1,200,1,,200
+,,Package 2,Hand Basin,,0,1,0,1,,0
+,,,Bathroom Accessories,PUSH drain water,0,1,0,1,,0
+,,,Drain Valve,,0,1,0,2,,0
+,,,toilet paper box,,0,1,0,2,,0
+,,,Subtotal,,,,,,,1400
+￥800,"￥1,000",15,Decorations,24 Curtain Rod Installation,,,,,,
+,,Textile,Curtains,,1000,1,1000,1,,1000
+,,,Blinds,,0,1,0,1,,0
+,,,Window track,,0,1,0,1,,0
+,,,Window rod,,0,1,0,4,,0
+,,,Subtotal,,,,,,,1000
+"￥27,100",,16,Furniture,25 Desert Cleaning 26 Furniture Delivery,Brand: ××× Furniture,Brand: ××× Furniture,Brand: ××× Furniture,Brand: ××× Furniture,Brand: ××× Furniture,Brand: ××× Furniture
+"￥3,500",,Home Furnishing,Three-Door Wardrobe,,2000,1,2000,2,,4000
+"￥2,000",,Home Furnishing,Two-Door Wardrobe,,0,1,0,2,,0
+"￥4,300",,Home Furnishing,Double Bed 1.8 meters,,4000,1,4000,1,,4000
+"￥3,200",,Home Furnishing,1.5m Single Bed,,1500,1,1500,1,,1500
+￥600,,Home Furnishing,Bedside table,,0,1,0,2,,0
+￥500,,Home Furnishing,Vanity + Dressing Chair,,0,1,0,1,,0
+￥800,,Home Furnishing,TV low cabinet,,0,1,0,1,,0
+"￥4,000",,Home Furnishing,Bookcase Desk + Bed,,1000,1,1000,0,,0
+"￥5,000",,Home Furnishing,sofa,,4000,1,4000,1,,4000
+￥700,,Home Furnishing,Long coffee table,,1000,1,1000,1,,1000
+"￥1,000",,Home Furnishing,Dining table,,1500,1,1500,1,,1500
+"￥1,500",,Home Furnishing,Dining chair,,0,1,0,4,,0
+,,,Subtotal,,,,,,,16000
+"￥16,700","￥19,800",17,Appliances,27 Home Appliance Installation,,,,,,
+"￥7,000",,Kitchen,Refrigerator,,3000,1,3000,1,,3000
+"￥7,000",,Kitchen,Gas stove,,,,,,,
+"￥7,000",,Kitchen,Range Hood,,,,,,,
+"￥7,000",,Kitchen,Kitchenware,,,,,,,
+"￥7,000",,Kitchen,Disinfection Machine,,800,1,800,1,,800
+"￥7,000",,Kitchen,Rice cooker,,,,,,,
+"￥3,000",,,TV,,5000,1,5000,1,,5000
+"￥5,500",,,Air conditioning,,10000,1,10000,1,,10000
+"￥1,000",,Bathroom,Water heater,,1000,1,1000,1,,1000
+￥200,,Bathroom,Ceiling Mounted Bath Heater,,0,1,0,1,,0
+,,,Subtotal,,,,,,,19800
+"￥1,000","￥7,500",18,Decorations,28 Home Accessories,,,,,,
+,,,Wallpaper and Baseboard,,5000,1,5000,1,,5000
+,,,Carpet,,1000,1,1000,1,,1000
+,,,Painting,,500,1,500,1,,500
+,,,Decorations,,1000,1,1000,1,,1000
+,,,Subtotal,,,,,,,7500
+"￥145,300","￥41,700",,Total:,,,,,,,
+,,,,,,,,,,
+Preparation:,carocoro,,,,,,,,,
+Time:,3/19/09,,,,,,,,,
+Friendly reminder:,"Click the + or - sign on the left to expand or collapse the table for easier browsing. (Or click the small buttons 1, 2, 3 in the small square at the top-left corner of the screen, hehe, convenient, right?)","Click the + or - sign on the left to expand or collapse the table for easier browsing. (Or click the small buttons 1, 2, 3 in the small square at the top-left corner of the screen, hehe, convenient, right?)","Click the + or - sign on the left to expand or collapse the table for easier browsing. (Or click the small buttons 1, 2, 3 in the small square at the top-left corner of the screen, hehe, convenient, right?)","Click the + or - sign on the left to expand or collapse the table for easier browsing. (Or click the small buttons 1, 2, 3 in the small square at the top-left corner of the screen, hehe, convenient, right?)","Click the + or - sign on the left to expand or collapse the table for easier browsing. (Or click the small buttons 1, 2, 3 in the small square at the top-left corner of the screen, hehe, convenient, right?)","Click the + or - sign on the left to expand or collapse the table for easier browsing. (Or click the small buttons 1, 2, 3 in the small square at the top-left corner of the screen, hehe, convenient, right?)","Click the + or - sign on the left to expand or collapse the table for easier browsing. (Or click the small buttons 1, 2, 3 in the small square at the top-left corner of the screen, hehe, convenient, right?)","Click the + or - sign on the left to expand or collapse the table for easier browsing. (Or click the small buttons 1, 2, 3 in the small square at the top-left corner of the screen, hehe, convenient, right?)","Click the + or - sign on the left to expand or collapse the table for easier browsing. (Or click the small buttons 1, 2, 3 in the small square at the top-left corner of the screen, hehe, convenient, right?)","Click the + or - sign on the left to expand or collapse the table for easier browsing. (Or click the small buttons 1, 2, 3 in the small square at the top-left corner of the screen, hehe, convenient, right?)"
+Note:,"1. For easier understanding, the table uses simulated data of 100, 1000 yuan. You will find many unreasonable prices, no problem, it's just a template. Everyone can fill in according to their own actual situation.  
+2. You can add or remove specific renovation items. However, it is best to only modify the parts with black text on white background, and do not arbitrarily change the gray parts, otherwise the calculation formulas will not work properly (this means that the discounted price, subtotal, and total are automatically calculated).","1. For easier understanding, the table uses simulated data of 100, 1000 yuan. You will find many unreasonable prices, no problem, it's just a template. Everyone can fill in according to their own actual situation.  
+2. You can add or remove specific renovation items. However, it is best to only modify the parts with black text on white background, and do not arbitrarily change the gray parts, otherwise the calculation formulas will not work properly (this means that the discounted price, subtotal, and total are automatically calculated).","1. For easier understanding, the table uses simulated data of 100, 1000 yuan. You will find many unreasonable prices, no problem, it's just a template. Everyone can fill in according to their own actual situation.  
+2. You can add or remove specific renovation items. However, it is best to only modify the parts with black text on white background, and do not arbitrarily change the gray parts, otherwise the calculation formulas will not work properly (this means that the discounted price, subtotal, and total are automatically calculated).","1. For easier understanding, the table uses simulated data of 100, 1000 yuan. You will find many unreasonable prices, no problem, it's just a template. Everyone can fill in according to their own actual situation.  
+2. You can add or remove specific renovation items. However, it is best to only modify the parts with black text on white background, and do not arbitrarily change the gray parts, otherwise the calculation formulas will not work properly (this means that the discounted price, subtotal, and total are automatically calculated).","1. For easier understanding, the table uses simulated data of 100, 1000 yuan. You will find many unreasonable prices, no problem, it's just a template. Everyone can fill in according to their own actual situation.  
+2. You can add or remove specific renovation items. However, it is best to only modify the parts with black text on white background, and do not arbitrarily change the gray parts, otherwise the calculation formulas will not work properly (this means that the discounted price, subtotal, and total are automatically calculated).","1. For easier understanding, the table uses simulated data of 100, 1000 yuan. You will find many unreasonable prices, no problem, it's just a template. Everyone can fill in according to their own actual situation.  
+2. You can add or remove specific renovation items. However, it is best to only modify the parts with black text on white background, and do not arbitrarily change the gray parts, otherwise the calculation formulas will not work properly (this means that the discounted price, subtotal, and total are automatically calculated).","1. For easier understanding, the table uses simulated data of 100, 1000 yuan. You will find many unreasonable prices, no problem, it's just a template. Everyone can fill in according to their own actual situation.  
+2. You can add or remove specific renovation items. However, it is best to only modify the parts with black text on white background, and do not arbitrarily change the gray parts, otherwise the calculation formulas will not work properly (this means that the discounted price, subtotal, and total are automatically calculated).","1. For easier understanding, the table uses simulated data of 100, 1000 yuan. You will find many unreasonable prices, no problem, it's just a template. Everyone can fill in according to their own actual situation.  
+2. You can add or remove specific renovation items. However, it is best to only modify the parts with black text on white background, and do not arbitrarily change the gray parts, otherwise the calculation formulas will not work properly (this means that the discounted price, subtotal, and total are automatically calculated).","1. For easier understanding, the table uses simulated data of 100, 1000 yuan. You will find many unreasonable prices, no problem, it's just a template. Everyone can fill in according to their own actual situation.  
+2. You can add or remove specific renovation items. However, it is best to only modify the parts with black text on white background, and do not arbitrarily change the gray parts, otherwise the calculation formulas will not work properly (this means that the discounted price, subtotal, and total are automatically calculated).","1. For easier understanding, the table uses simulated data of 100, 1000 yuan. You will find many unreasonable prices, no problem, it's just a template. Everyone can fill in according to their own actual situation.  
+2. You can add or remove specific renovation items. However, it is best to only modify the parts with black text on white background, and do not arbitrarily change the gray parts, otherwise the calculation formulas will not work properly (this means that the discounted price, subtotal, and total are automatically calculated)."

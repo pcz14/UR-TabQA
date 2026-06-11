@@ -1,0 +1,30 @@
+Floorlevel-Floorlevel,Unnamed: 1,ComponentName-ComponentName,QuantityName-FloorArea(m²),QuantityName-Tilefloorarea(m2),QuantityName-Groundperimeter(m),QuantityName-Horizontalwaterproofingarea(m2),QuantityName-VerticalWaterproofingArea(LessthanMinimumVerticalWaterproofingHeight)(m²)
+Basement Level -1,682,05J1-12 Ground 1,23.1094,23.1094,30.24,23.1768,0.0
+Basement Level -1,689,B1 [Underground Class W Storage Room],876.5965,876.5965,250.62,883.4893,0.0
+Basement Level -1,690,05J1-24 D69 [Distribution Room],267.3581,267.3581,158.16,268.9162,0.0
+Basement Level -1,691,"05J1-12 Ground 1 [Piping Well, Storage Room]",2.7262,2.7262,9.68,3.0912,0.0
+Basement Level -1,692,05J1-14 Ground 25 [Staircase],73.7677,73.7677,66.6,75.9468,0.0
+Basement Level -1,698,Light well floor,3.441,3.441,13.31,7.434,3.993
+Basement Level -1,,Subtotal,1246.9989,1246.9989,528.61,1262.0543,3.993
+First floor,514,05J1-26 Stair 1 [Pipe Shaft Room],2.9134,2.9134,10.0,0.0,0.0
+First floor,531,Floor 2 (Toilet Floor) [Toilet],34.5491,34.5491,47.16,48.8344,12.8954
+First floor,532,O5J1-28 Staircase [Stairwell],74.4193,74.4193,66.6,0.0,0.0
+First floor,533,O5J1-30 Building 21 [Fire Control Room],34.9163,34.9163,24.7,0.0,0.0
+First floor,539,Store 1 [Sales Hall],1071.3142,1071.3142,172.025,0.0,0.0
+First floor,,Subtotal,1218.1123,1218.1123,320.485,48.8344,12.8954
+2nd Floor,542,05J1-26 Stair 1 [Pipe Shaft Room],2.879,2.879,9.9,0.0,0.0
+2nd Floor,544,Floor 2 (Toilet Floor) [Toilet],34.601,34.601,47.16,48.7845,12.8455
+2nd Floor,546,O5J1-28 Staircase [Stairwell],50.3138,50.3138,44.3,0.0,0.0
+2nd Floor,550,Store 1 [Sales Hall],1157.934,1157.934,161.45,0.0,0.0
+2nd Floor,,Subtotal,1245.7278,1245.7278,262.81,48.7845,12.8455
+3rd floor,586,05J1-26 Stair 1 [Pipe Shaft Room],2.951,2.951,10.06,0.0,0.0
+3rd floor,588,Floor 2 (Toilet Floor) [Toilet],34.601,34.601,47.16,48.7845,12.8455
+3rd floor,590,O5J1-28 Staircase [Stairwell],50.3138,50.3138,44.3,0.0,0.0
+3rd floor,592,Store 1 [Sales Hall],1157.934,1157.934,161.45,0.0,0.0
+3rd floor,,Subtotal,1245.7998,1245.7998,262.97,48.7845,12.8455
+4th floor,624,05J1-26 Stair 1 [Pipe Shaft Room],2.951,2.951,10.06,0.0,0.0
+4th floor,626,Floor 2 (Toilet Floor) [Toilet],34.601,34.601,47.16,48.7845,12.8455
+4th floor,628,O5J1-28 Staircase [Stairwell],50.3138,50.3138,44.3,0.0,0.0
+4th floor,630,Store 1 [Sales Hall],1157.934,1157.934,161.45,0.0,0.0
+4th floor,,Subtotal,1245.7998,1245.7998,262.97,48.7845,12.8455
+Total,Total,Total,6202.4386,6202.4386,1637.845,1457.2422,55.4249

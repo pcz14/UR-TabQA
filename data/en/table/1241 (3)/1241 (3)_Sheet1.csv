@@ -1,0 +1,26 @@
+FinancialStatement-IncomeandExpenditureLedger-Time,FinancialStatement-IncomeandExpenditureLedger-IncomeandExpenditureDetails,FinancialStatement-IncomeandExpenditureLedger-Income,FinancialStatement-IncomeandExpenditureLedger-Income.1,FinancialStatement-IncomeandExpenditureLedger-Income.2,FinancialStatement-IncomeandExpenditureLedger-Income.3,FinancialStatement-IncomeandExpenditureLedger-Expenditure,FinancialStatement-IncomeandExpenditureLedger-Expenditure.1,FinancialStatement-IncomeandExpenditureLedger-Expenditure.2,FinancialStatement-IncomeandExpenditureLedger-Expenditure.3,FinancialStatement-IncomeandExpenditureLedger-Balance,FinancialStatement-IncomeandExpenditureLedger-Notes
+Time,Income and Expenditure Details,Cash,WeChat,Bank,Alipay,Cash,WeChat,Bank,Alipay,Balance,Notes
+11/1/2019,Business Revenue,300.0,5000.0,,,,123.0,,,,21
+11/2/2019,Government Allocation,,,100000.0,,100.0,,563.0,,,22
+11/3/2019,,,,,,,,,233.0,,23
+11/4/2019,Business Revenue,301.0,5001.0,,,,124.0,,,,24
+11/5/2019,Government Allocation,,,100001.0,,101.0,,564.0,,,25
+11/6/2019,,,,,,,,,234.0,,26
+11/7/2019,Business Revenue,302.0,5002.0,,,,125.0,,,,27
+11/8/2019,Government Allocation,,,100002.0,,102.0,,565.0,,,28
+11/9/2019,,,,,,,,,235.0,,29
+11/10/2019,Business Revenue,303.0,5003.0,,,,126.0,,,,30
+11/11/2019,Government Allocation,,,100003.0,,103.0,,566.0,,,31
+11/12/2019,,,,,,,,,236.0,,32
+11/13/2019,Business Revenue,304.0,5004.0,,,,127.0,,,,33
+11/14/2019,Government Allocation,,,100004.0,,104.0,,567.0,,,34
+11/15/2019,,,,,,,,,237.0,,35
+11/16/2019,Business Revenue,305.0,5005.0,,,,128.0,,,,36
+11/17/2019,Government Allocation,,,100005.0,,105.0,,568.0,,,37
+11/18/2019,,,,,,,,,238.0,,38
+11/19/2019,Business Revenue,306.0,5006.0,,,,129.0,,,,39
+11/20/2019,Government Allocation,,,100006.0,,106.0,,569.0,,,40
+11/21/2019,,,,,,,,,239.0,,41
+11/22/2019,Business Revenue,307.0,5007.0,,,,130.0,,,,42
+11/23/2019,Government Allocation,,,100007.0,,107.0,,570.0,,,43
+11/24/2019,,,,,,,,,240.0,,44

@@ -1,0 +1,44 @@
+1-12NumberofRoomsandAreaofHousingforHouseholdsinDifferentRegions-Region-Region,1-12NumberofRoomsandAreaofHousingforHouseholdsinDifferentRegions-Householdfamilies-NumberofHouseholds,1-12NumberofRoomsandAreaofHousingforHouseholdsinDifferentRegions-Householdfamilies-Numberofpeople,1-12NumberofRoomsandAreaofHousingforHouseholdsinDifferentRegions-Averagehousingareaperhousehold-Residentialbuildingarea,1-12NumberofRoomsandAreaofHousingforHouseholdsinDifferentRegions-Averageperhousehold-Numberofhousingrooms,1-12NumberofRoomsandAreaofHousingforHouseholdsinDifferentRegions-Percapitahousing-Buildingarea,1-12NumberofRoomsandAreaofHousingforHouseholdsinDifferentRegions-Percapita-Numberofhousingrooms
+Region,(households),(person),(square meters per household),(interior rooms per household),(square meters/person),(interior rooms/person)
+,,,,,,
+Whole Country,465241711,1238552246,111.18,3.2,41.76,1.2
+,,,,,,
+Beijing,7770769,18102211,81.28,2.3,34.89,0.99
+Tianjin,4587490,11069740,85.54,2.38,35.45,0.98
+Hebei,24554501,68088601,105.6,3.32,38.08,1.2
+Shanxi,12064669,30883721,92.57,2.91,36.16,1.14
+Inner Mongolia,8817048,21081773,83.58,2.23,34.96,0.93
+,,,,,,
+Liaoning,16571689,38339479,80.28,2.29,34.7,0.99
+Jilin,8724943,20787478,80.63,2.22,33.84,0.93
+Heilongjiang,11685918,26455448,76.86,2.14,33.95,0.95
+,,,,,,
+Shanghai,9095041,21402382,75.96,2.04,32.28,0.87
+Jiangsu,28069197,74167282,123.67,3.1,46.8,1.17
+Zhejiang,22921213,55252198,111.27,2.73,46.16,1.13
+Anhui,20750408,55125661,122.42,3.25,46.08,1.22
+Fujian,13350262,36614006,133.63,3.46,48.72,1.26
+Jiangxi,13331484,39896314,164.48,4.18,54.96,1.4
+Shandong,33915789,92192894,106.36,3.31,39.13,1.22
+,,,,,,
+Henan,30557811,88228166,134.26,4.21,46.5,1.46
+Hubei,18760549,50668219,127.77,3.35,47.31,1.24
+Hunan,21561143,58609484,129.18,3.82,47.52,1.4
+Guangdong,38953156,104999009,91.21,2.81,33.84,1.04
+Guangxi,15517021,45197752,136.56,4.01,46.88,1.38
+Hainan,2747332,8571760,106.01,2.87,33.98,0.92
+,,,,,,
+Chongqing,11415050,28406859,104.43,3.09,41.96,1.24
+Sichuan,29098226,74210524,111.28,3.25,43.63,1.27
+Guizhou,12004270,34394601,123.49,3.97,43.1,1.38
+Yunnan,14304259,42141148,125.53,3.57,42.61,1.21
+Tibet,793704,2814919,159.16,4.04,44.88,1.14
+,,,,,,
+Shaanxi,13350429,34324885,111.69,3.02,43.44,1.17
+Gansu,7936539,22421260,96.48,3.78,34.15,1.34
+Qinghai,1791200,5173085,102.85,3.15,35.61,1.09
+Ningxia,2361757,6371085,97.38,2.66,36.1,0.98
+Xinjiang,7878844,22560302,93.11,2.93,32.52,1.02
+,,,,,,
+,,,,,,
+Note: The data in this table refers to family households residing in ordinary residential housing.,,,,,,

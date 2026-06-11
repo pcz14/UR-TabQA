@@ -1,0 +1,19 @@
+Serial Number,Date,Abstract,Expense Type,Cost Details,Amount Spent,Notes,Sales Expenses,Financial Expenses,Administrative expenses
+1,2022/1/1,XXXX,Sales Expenses,Transportation Fee,1100.0,1,Transportation Fee,interest expense,Salary
+2,2022/2/1,XXXX,Administrative expenses,Salary,700.0,2,Loading and unloading fee,Exchange loss,Repair expenses
+3,2022/3/1,XXXX,Financial Expenses,Handling fee,2300.0,3,Packaging Fee,Handling fee,Consulting fee
+4,2022/4/1,XXXX,Sales Expenses,Loading and unloading fee,1500.0,4,Insurance Fee,,Consumable Amortization
+5,2022/5/1,XXXX,Financial Expenses,Exchange loss,1700.0,5,Exhibition Fee,,Office expenses
+6,2022/6/1,XXXX,Administrative expenses,Repair expenses,1900.0,6,Advertising Expense,,Travel expenses
+7,2022/7/1,XXXX,Sales Expenses,Packaging Fee,1600.0,7,,,Business hospitality expenses
+8,2022/8/1,XXXX,Administrative expenses,Salary,1700.0,8,Transportation Fee,interest expense,Salary
+9,2022/9/1,xxxx,Financial Expenses,interest expense,1800.0,9,Loading and unloading fee,Exchange loss,Repair expenses
+10,2022/10/1,XXXX,Sales Expenses,Insurance Fee,1200.0,10,Packaging Fee,Handling fee,Consulting fee
+11,2022/11/1,XXXX,Administrative expenses,Consulting fee,1800.0,11,Insurance Fee,,Consumable Amortization
+12,2022/12/1,XXXX,Administrative expenses,Office expenses,800.0,12,Exhibition Fee,,Office expenses
+13,2023/1/1,XXXX,Sales Expenses,Transportation Fee,1510.61,13,Advertising Expense,,Travel expenses
+14,2023/2/1,XXXX,Administrative expenses,Salary,1510.96,14,,,Business hospitality expenses
+15,2023/3/1,XXXX,Financial Expenses,Handling fee,1511.31,15,Transportation Fee,interest expense,Salary
+16,2023/4/1,XXXX,Sales Expenses,Loading and unloading fee,1511.66,16,Loading and unloading fee,Exchange loss,Repair expenses
+17,2023/5/1,XXXX,Financial Expenses,Exchange loss,1512.0,17,Packaging Fee,Handling fee,Consulting fee
+18,2023/6/1,XXXX,Administrative expenses,Repair expenses,1512.35,18,Insurance Fee,,Consumable Amortization

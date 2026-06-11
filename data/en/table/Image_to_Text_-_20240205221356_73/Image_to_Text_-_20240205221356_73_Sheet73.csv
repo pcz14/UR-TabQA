@@ -1,0 +1,11 @@
+DoubleElevenPurchaseandReturnStatisticsTable-SerialNumber,DoubleElevenPurchaseandReturnStatisticsTable-E-commercechannel,DoubleElevenPurchaseandReturnStatisticsTable-Brand,DoubleElevenPurchaseandReturnStatisticsTable-Name,DoubleElevenPurchaseandReturnStatisticsTable-PurchaseDetails,DoubleElevenPurchaseandReturnStatisticsTable-PurchaseDetails.1,DoubleElevenPurchaseandReturnStatisticsTable-PurchaseDetails.2,DoubleElevenPurchaseandReturnStatisticsTable-PurchaseDetails.3,DoubleElevenPurchaseandReturnStatisticsTable-ReturnDetails,DoubleElevenPurchaseandReturnStatisticsTable-ReturnDetails.1,DoubleElevenPurchaseandReturnStatisticsTable-ReturnDetails.2,DoubleElevenPurchaseandReturnStatisticsTable-7-dayunreasonablereturnWasthereturnsuccessful,DoubleElevenPurchaseandReturnStatisticsTable-Invoiceandrelateddocumentsprovidedstatus
+Serial Number,E-commerce channel,Brand,Name,Quantity,Unit Price,Amount,Delivery Time,Quantity,Unit Price,Amount,"7-day unreasonable return  
+Was the return successful",Invoice and related documents provided status
+1,Gome,Xiaomi,earphones,20,150,3000,November 16,,,,Yes,has an invoice
+2,Taobao,Huawei,P40,5,4200,21000,November 17,,,,Yes,has an invoice
+3,Dangdang,Lins Wood Industry,Mattress,10,1500,15000,November 18,,,,Yes,has an invoice
+4,Gome,Kang Shibo,Iced Black Tea,500,2,1000,November 19,,,,Yes,has an invoice
+5,Suning,Yichun,Jeans,50,50,2500,November 20,,,,Yes,has an invoice
+6,JD.com,Uyicar,Maoxian Kaisan (Wool Cardigan),35,120,4200,November 21,,,,Yes,Have an invoice
+7,JD.com,Jie Liang Qiong Juan,Jacket,5,1500,7500,November 22,,,,Yes,has an invoice
+8,Vipshop,Qing Liang'er,Perfume,15,650,9750,November 23,,,,Yes,has an invoice

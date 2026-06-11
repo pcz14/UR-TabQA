@@ -1,0 +1,58 @@
+Floorlevel-Floorlevel,Unnamed: 1,ComponentName-ComponentName,QuantityName-FloorArea(m²),QuantityName-Tilefloorarea(m2),QuantityName-Groundperimeter(m),QuantityName-Horizontalwaterproofingarea(m2),QuantityName-VerticalWaterproofingArea(LessthanMinimumVerticalWaterproofingHeight)(m²)
+Light well floor,682.0,Light well floor,23.0,23.0,30.0,23.0,0.0
+Light well floor,,*50 thick C15 fine aggregate concrete (top elevation -4.4),23.0,23.0,23.0,23.0,23.0
+05J1-12 Ground 1,,"05J1-12 Ground 1 [Piping Well, Storage Room]",3.0,3.0,10.0,3.0,0.0
+05J1-12 Ground 1,,*20mm thick 1:2 cement mortar plastered and polished surface,3.0,3.0,3.0,3.0,3.0
+05J1-12 Ground 1,,*60 thick C15 concrete,3.0,3.0,3.0,3.0,3.0
+B1,689.0,B1 [Underground Class W Storage Room],877.0,876.5965,250.62,883.0,0.0
+B1,,*20mm thick 1:2 cement mortar plastered and polished surface,877.0,877.0,877.0,877.0,877.0
+B1,,*80 thick C15 concrete leveling,877.0,877.0,877.0,877.0,877.0
+05J1-24 Ground 69,690.0,05J1-24 D69 [Distribution Room],267.0,267.3581,158.16,269.0,0.0
+05J1-24 Ground 69,,*20mm thick 1:2.5 cement mortar compacted and polished,267.0,267.0,267.0,267.0,267.0
+05J1-24 Ground 69,,*80 thick C15 concrete,267.0,267.0,267.0,267.0,267.0
+05J1-24 Ground 69,,*Plain soil backfill 700 thick,187.0,187.0,187.0,187.0,187.0
+05J1-14 Ground 25,692.0,05J1-14 Ground 25 [Staircase],74.0,73.7677,66.6,75.9468,0.0
+05J1-14 Ground 25,,"*20mm thick granite laid flat and compacted, plain mortar jointing",74.0,74.0,74.0,74.0,74.0
+05J1-14 Ground 25,,*80 thick C15 concrete leveling,74.0,74.0,74.0,74.0,74.0
+Ventilation shaft floor,,Ventilation shaft floor,3.0,3.441,13.31,7.0,4.0
+Ventilation shaft floor,,*30 mm thick fine aggregate concrete floor,3.0,3.0,3.0,3.0,3.0
+Ventilation shaft floor,,*SBS Modified Bitumen Waterproofing Membrane (One Layer),11.0,11.0,11.0,11.0,11.0
+Ventilation shaft floor,698.0,* Reinforced concrete base slab water-tightness grade P6,,,,,
+05J1-26 Building 1,514.0,05J1-26 Building 1 [Ground Floor Pipe Shaft Area],3.0,2.9134,10.0,0.0,0.0
+05J1-26 Building 1,,05J1-26 Building 1 [Pipe Shaft Room on 2nd Floor],3.0,2.879,9.9,0.0,0.0
+05J1-26 Building 1,,05J1-26 Building 1 [3rd Floor Pipe Shaft Area],3.0,2.951,10.06,0.0,0.0
+05J1-26 Building 1,,05J1-26 Building 1 [4th Floor Pipe Shaft Area],3.0,2.951,10.06,0.0,0.0
+05J1-26 Building 1,,Subtotal,12.0,,,,
+05J1-26 Building 1,,*20mm thick 1:2 cement mortar plastered and polished surface,12.0,12.0,12.0,12.0,12.0
+Floor 2,531.0,Floor 2 [Ground Floor Toilet],35.0,35.0,47.0,49.0,13.0
+Floor 2,,Floor 2 [2nd Floor Toilet],35.0,35.0,47.0,49.0,13.0
+Floor 2,,Floor 2 [3rd Floor Toilet],35.0,35.0,47.0,49.0,13.0
+Floor 2,,Floor 2 [4th Floor Toilet],35.0,35.0,47.0,49.0,13.0
+Floor 2,,Subtotal,138.0,,,,
+Floor 2,,*8-10 mm thick floor tiles,138.0,138.0,138.0,138.0,138.0
+Floor 2,,*20mm thick cement mortar leveling course,138.0,138.0,138.0,138.0,138.0
+Floor 2,,*2mm thick polyurethane waterproofing layer,247.0,247.0,247.0,247.0,247.0
+Floor 2,,*60 thick C20 fine aggregate concrete slope finding,138.0,138.0,138.0,138.0,138.0
+Floor 2,,"*20mm thick polystyrene board insulation, with tin foil lamination",3.0,3.0,3.0,3.0,3.0
+Floor 2,,*2mm thick polyurethane waterproofing layer,247.0,247.0,247.0,247.0,247.0
+Floor 2,,*20mm thick cement mortar leveling course,138.0,138.0,138.0,138.0,138.0
+O5J1-28 Building 13,532.0,O5J1-28 Building 13 [Ground Floor Staircase],74.0,74.0,67.0,0.0,0.0
+O5J1-28 Building 13,,O5J1-28 Building 13 [Second Floor Staircase],50.0,50.0,44.0,0.0,0.0
+O5J1-28 Building 13,,O5J1-28 Building 13 [Third Floor Staircase],50.0,50.0,44.0,0.0,0.0
+O5J1-28 Building 13,,O5J1-28 Building 13 [4th Floor Staircase],50.0,50.0,44.0,0.0,0.0
+O5J1-28 Building 13,,Subtotal,225.0,,,,
+O5J1-28 Building 13,,*20mm thick granite laid flat and compacted,225.0,225.0,225.0,225.0,225.0
+O5J1-30 Building 21,533.0,O5J1-30 Building 21 [Fire Control Room],35.0,34.9163,24.7,0.0,0.0
+O5J1-30 Building 21,,*10mm thick bamboo composite floor,35.0,35.0,35.0,35.0,35.0
+O5J1-30 Building 21,,*3mm hot asphalt adhesive,35.0,35.0,35.0,35.0,35.0
+O5J1-30 Building 21,,*One coat of cold primer oil,35.0,35.0,35.0,35.0,35.0
+O5J1-30 Building 21,,*20 thick 1:2 cement mortar leveling,35.0,35.0,35.0,35.0,35.0
+L1,,1F [Ground Floor Sales Hall],1071.0,1071.3142,172.025,0.0,0.0
+L1,,Floor 1 [3rd Floor Sales Hall],1158.0,1157.934,161.45,0.0,0.0
+L1,,Floor 1 [4th Floor Sales Hall],1158.0,1157.934,161.45,0.0,0.0
+L1,539.0,Floor 1 [5th Floor Sales Hall],1158.0,1157.934,161.45,0.0,0.0
+L1,,Subtotal,4545.0,4545.0,4545.0,4545.0,4545.0
+L1,,*Tiled floor,4545.0,4545.0,4545.0,4545.0,4545.0
+L1,,*20 thick 1:2.5 cement mortar leveling course,4545.0,4545.0,4545.0,4545.0,4545.0
+L1,,*50 thick C15 fine aggregate concrete,4545.0,4545.0,4545.0,4545.0,4545.0
+L1,,"*10 mm thick insulation board under heating pipe, 20 kg/m³",4545.0,4545.0,4545.0,4545.0,4545.0

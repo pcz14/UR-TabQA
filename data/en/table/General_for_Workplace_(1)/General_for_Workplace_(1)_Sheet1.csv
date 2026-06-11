@@ -1,0 +1,22 @@
+Serial Number,Date,Supply Order Number,Counterparty Unit,Supply Amount,Amount Received,Unreceived Amount,Cumulative supply amount,Cumulative amount received,Cumulative Unreceived Amount,Notes
+1,2022/1/1,G10101,"Kingsoft Office Software Co., Ltd. 1",1200.0,800.0,400.0,1200.0,800.0,400.0,1
+2,2022/2/1,G10102,"Kingsoft Office Software Co., Ltd. 2",1500.0,200.0,1300.0,1500.0,200.0,1300.0,2
+3,2022/3/1,G10103,"Kingsoft Office Software Co., Ltd. 3",1700.0,700.0,1000.0,1700.0,700.0,1000.0,3
+4,2022/4/1,G10104,"Kingsoft Office Software Co., Ltd. 4",2300.0,400.0,1900.0,2300.0,400.0,1900.0,4
+5,2022/5/1,G10105,"Kingsoft Office Software Co., Ltd. 5",1800.0,300.0,1500.0,1800.0,300.0,1500.0,5
+6,2022/6/1,G10106,"Kingsoft Office Software Co., Ltd. 6",1000.0,500.0,500.0,1000.0,500.0,500.0,6
+7,2022/7/1,G10107,"Kingsoft Office Software Co., Ltd. 1",2100.0,400.0,1700.0,3300.0,1200.0,2100.0,7
+8,2022/8/1,G10108,"Kingsoft Office Software Co., Ltd. 2",2500.0,300.0,2200.0,4000.0,500.0,3500.0,8
+9,2022/9/1,G10109,"Kingsoft Office Software Co., Ltd. 3",1000.0,400.0,600.0,2700.0,1100.0,1600.0,9
+10,2022/10/1,G10110,"Kingsoft Office Software Co., Ltd. 4",1400.0,200.0,1200.0,3700.0,600.0,3100.0,10
+11,2022/11/1,G10111,"Kingsoft Office Software Co., Ltd. 5",1700.0,700.0,1000.0,3500.0,1000.0,2500.0,11
+12,2022/12/1,G10112,"Kingsoft Office Software Co., Ltd. 6",1900.0,600.0,1300.0,2900.0,1100.0,1800.0,12
+13,2023/1/1,G10113,"Kingsoft Office Software Co., Ltd. 1",1768.18,428.79,1339.39,5068.18,1628.79,3439.39,13
+14,2023/2/1,G10114,"Kingsoft Office Software Co., Ltd. 2",1782.52,424.24,1358.28,5782.52,924.24,4858.28,14
+15,2023/3/1,G10115,"Kingsoft Office Software Co., Ltd. 3",1796.85,419.7,1377.16,4496.85,1519.7,2977.16,15
+16,2023/4/1,G10116,"Kingsoft Office Software Co., Ltd. 4",1811.19,415.15,1396.04,5511.19,1015.15,4496.04,16
+17,2023/5/1,G10117,"Kingsoft Office Software Co., Ltd. 5",1825.52,410.61,1414.92,5325.52,1410.61,3914.92,17
+18,2023/6/1,G10118,"Kingsoft Office Software Co., Ltd. 6",1839.86,406.06,1433.8,4739.86,1506.06,3233.8,18
+19,2023/7/1,G10119,"Kingsoft Office Software Co., Ltd. 1",1854.2,401.52,1452.68,6922.38,2030.3,4892.07,19
+20,2023/8/1,G10120,"Kingsoft Office Software Co., Ltd. 2",1868.53,396.97,1471.56,7651.05,1321.21,6329.84,20
+21,2023/9/1,G10121,"Kingsoft Office Software Co., Ltd. 3",1882.87,392.42,1490.44,6379.72,1912.12,4467.6,21

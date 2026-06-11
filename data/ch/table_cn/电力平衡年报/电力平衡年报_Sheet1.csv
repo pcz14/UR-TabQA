@@ -1,0 +1,27 @@
+7-12电力平衡表-ElectricityBalanceSheet-单位：亿千瓦小时,7-12电力平衡表-ElectricityBalanceSheet,7-12电力平衡表-ElectricityBalanceSheet.1,7-12电力平衡表-ElectricityBalanceSheet.2,7-12电力平衡表-ElectricityBalanceSheet.3,7-12电力平衡表-ElectricityBalanceSheet-(100millionkW·h),7-12电力平衡表-ElectricityBalanceSheet-(100millionkW·h).1
+项     目,Item,2019,2020,2021,2022,2023.0
+,,,,,,
+一、可供量,Total Energy Available for Consumption,6831,6965,7398,7522,7963.0
+生产量,Production,5897,5806,6210,6204,6484.0
+火力发电,Thermal Power,5293,5142,5281,5092,5100.0
+水力发电、核发电、其他发电,"Hydro,Nuclear and other Power",604,665,929,1112,1384.0
+外省(区、市)调入量,Allocation from Other Provinces,941,1166,1197,1320,1480.0
+进口量,Imports,0,0,0,,0.0
+本省(区、市)调出量(-),Allocation to Other Provinces(-),(7),(7),(10),(2),1.0
+出 口 量(-),Exports(-),0,0,0,,0.0
+二、消费量,Total Energy Consumption,6831,6965,7398,7522,7963.0
+在总量中：,Consumption by Sector,,,,,
+1.农林牧渔业,"1.Agriculture,Forestry,Animal Husbandry
+          and Fishery",137,141,142,157,176.0
+2.工  业,2.Industry,5281,5352,5601,5563,5833.0
+3.建筑业,3.Construction,61,66,75,75,73.0
+4.交通运输、仓储和邮政业,"4.Transport,Storage and Post",123,135,154,158,184.0
+5.批发、零售业和住宿、餐饮业,"5.Wholesale and Retail Trades, Hotels and
+          Catering  Services",174,174,210,217,251.0
+6.其他行业,6.Other Sectors,358,371,434,459,510.0
+7.生活消费,7.Household Consumption,698,726,781,892,937.0
+在总量中：,Consumption by Usage,,,,,
+1. 终端消费,1.End-use Consumption,6831,6965,7398,7522,7963.0
+#工业,Industry,5281,5352,5601,5563,5833.0
+2. 输配电损失量,2.Losses in Transmission,0,0,0,,0.0
+三、平衡差额,Balance,0,,,,0.0

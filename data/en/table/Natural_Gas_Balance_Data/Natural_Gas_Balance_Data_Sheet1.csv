@@ -1,0 +1,38 @@
+6-8NaturalGasBalanceSheet-NaturalGasBalanceSheet-Unit:100millioncu.m,6-8NaturalGasBalanceSheet-NaturalGasBalanceSheet,6-8NaturalGasBalanceSheet-NaturalGasBalanceSheet.1,6-8NaturalGasBalanceSheet-NaturalGasBalanceSheet.2,6-8NaturalGasBalanceSheet-NaturalGasBalanceSheet.3,6-8NaturalGasBalanceSheet-NaturalGasBalanceSheet.4,6-8NaturalGasBalanceSheet-NaturalGasBalanceSheet-(100millioncu.m)
+Item,Item,2017.0,2018.0,2019.0,2020.0,2021.0
+,,,,,,
+Available Quantity,Total Energy Available for Consumption,216.3,237.0,254.4,261.8,285.4
+Production Volume,Output,344.5,369.8,441.4,463.3,522.2
+"Inflow from Other Provinces (Regions, Cities)",Imports from Other Provinces,0.3,,,0.4,0.2
+Import Volume,Imports,,,,,
+Domestic aircraft and ships refueling abroad,"The Refill of petroleum by Domestic
+       Airplanes  and Ships Abroad",,,,,
+"Outflow from this province (region, municipality) (-)",Exports from Sichuan(-),128.1,132.8,187.0,202.0,237.1
+Export (-),Exports(-),,,,,
+Overseas aircraft and ships refueling in domestic territory (-),"The Refill of petroleum by Oversea
+     Airplanes  and Ships domestically(-)",,,,,
+Beginning and End-of-Year Inventory Difference,Stock Changes in the Year,-0.4,,,0.1,
+Beginning-of-Year Inventory,Stock (year-beginning),,0.4,0.4,0.4,0.3
+End-of-Year Inventory (-),Stock (year-end)(-),0.4,0.4,0.4,0.3,0.3
+Consumption,Total Energy Consumption,216.3,237.0,254.4,261.8,285.4
+In the total:,Consumption by Sector,,,,,
+"1. Agriculture, Forestry, Animal Husbandry, and Fishery","1.Agriculture, Forestry, Animal
+      Husbandry and Fishery",1.3,1.0,0.7,0.9,1.4
+2. Industry,2.Industry,133.9,146.3,162.6,169.2,189.5
+3. Construction Industry,3.Construction,1.0,1.0,0.2,0.2,0.3
+"4. Transportation, Storage, and Postal Services","4.Transport, Storage and Post",18.3,19.9,19.9,18.8,18.5
+"5. Wholesale and Retail Trade, Accommodation and Catering Industry","5.Wholesale and Retail Trades, 
+       Hotels and Catering Services",11.0,12.6,12.6,11.6,12.1
+6. Others,6.Other,7.1,7.5,7.4,6.9,7.4
+7. Residential Life,7.Household Consumption,43.7,48.8,51.1,54.3,56.2
+In the total:,Consumption by Usage,,,,,
+1. Final Consumption,1.Final Consumption,205.5,224.5,239.3,242.1,261.2
+# Industry,Industry,126.9,137.8,151.8,150.0,166.2
+2. Intermediate Consumption (Processing and Conversion),"2. Intermediate Consumption
+        (for processing conversion)",7.0,8.5,10.8,13.7,15.9
+Thermal Power Generation,Thermal Power Generation,2.9,4.0,5.2,4.8,6.6
+Heat Supply,Heating,3.1,3.2,4.1,3.9,4.7
+Gas Making,Gas Production,,,,3.3,2.9
+Natural Gas Liquefaction,Liquefied Natural Gas,1.1,1.2,1.6,1.6,1.7
+3. Loss Volume,3.Other Losses,3.8,4.0,4.3,6.0,8.4
+Balance Difference,Balance,,,,,

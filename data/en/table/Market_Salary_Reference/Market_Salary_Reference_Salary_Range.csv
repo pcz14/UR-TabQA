@@ -1,0 +1,25 @@
+Department,Department.1,Position,Salary Range,Commission
+Operations Department,Front Hall,Operations Director,12000~15000,Bonus (approximately 3%-5% of net profit)
+Operations Department,Front Hall,Marketing Manager,4000-5000,"Commission details see ""Marketing Commission Plan"""
+Operations Department,Front Hall,Front Hall Manager,10000-12000,"2% of the front hall's net profit, Front Hall Manager 0.5% * 2 people"
+Operations Department,Front Hall,Front Hall Deputy Manager,7000-90000,0.30%
+Operations Department,Front Hall,Cashier,3500-4500,0.10%
+Operations Department,Front Hall,Bar Counter,4000-5000,0.10%
+Operations Department,Front Hall,Server,3500-5500,"Commission on bottle fees/set meals, etc. Server promotion evaluation criteria can be found in the ""Server Performance Evaluation Plan."""
+Operations Department,Front Hall,Cleaning staff,3000-3500,
+Operations Department,Front Hall,Linens,3000-3500,
+Operations Department,Front Hall,Food Server,3500-4000,
+Operations Department,Back Kitchen,Executive Chef,10000-12000,"The kitchen's profit accounts for 2% of the total net profit, with the head chef receiving 0.5%."
+Operations Department,Back Kitchen,Cold Dishes,5000-7000,
+Operations Department,Back Kitchen,Main Hot Dish (Head Chef),6000-8000,
+Operations Department,Back Kitchen,Doughnuts,5000-7000,
+Operations Department,Back Kitchen,Roast Meat and Sausage,5000-7000,
+Operations Department,Back Kitchen,"Seafood, Cold Storage",5000-6000,
+Operations Department,Back Kitchen,"Dahuo (literally ""load support"", commonly used in the context of kitchen or front-of-house operations in restaurants)",4500-5000,
+Operations Department,Back Kitchen,Dishwasher,3000-3500,
+General Office,General Office,General Assistant,,
+General Office,General Office,Procurement,,
+General Office,General Office,Human Resources,,
+General Office,General Office,Administration,,
+General Office,General Office,Finance,,
+General Office,General Office,Cashier,,

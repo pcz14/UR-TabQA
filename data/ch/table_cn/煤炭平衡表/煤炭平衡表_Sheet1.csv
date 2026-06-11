@@ -1,0 +1,36 @@
+7-11煤炭平衡表-CoalBalanceSheet-单位：万吨,7-11煤炭平衡表-CoalBalanceSheet,7-11煤炭平衡表-CoalBalanceSheet.1,7-11煤炭平衡表-CoalBalanceSheet.2,7-11煤炭平衡表-CoalBalanceSheet.3,7-11煤炭平衡表-CoalBalanceSheet.4,7-11煤炭平衡表-CoalBalanceSheet-(10000tons)
+项     目,Item,2019,2020,2021,2022,2023.0
+,,,,,,
+一、可供量,Total Energy Available for Consumption,43133,38790,39430,39010,39237.0
+原煤生产量,Raw coal Production,11918,10945,9312,8753,8706.0
+外省(区、市)调入量,Allocation from Other Provinces,38410,29785,32274,30709,42294.0
+进口量,Imports,1245,1188,959,903,2769.0
+本省(区、市)调出量(－),Allocation to Other Provinces(-),(8074),(4533),(2189),(1135),15283.0
+出口量(-),Exports(-),(100),0,(11),(182),0.0
+年初年末库存差额,Stock Changes in the Year,(267),1405,(916),(37),752.0
+年初库存量,Stock of early Year,3527,3793,2388,3305,3342.0
+年末库存量(-),Stock of Year-end(-),(3793),(2388),(3305),(3342),2590.0
+二、消费量,Total Energy Consumption,43133,38790,39430,39010,39237.0
+在总量中：,Consumption by Sector,,,,,
+1.农林牧渔业,"1.Agriculture,Forestry,Animal
+           Husbandry and Fishery",46,41,25,18,16.0
+2.工  业,2.Industry,42168,37859,38570,38179,38468.0
+3.建筑业,3.Construction,0,0,0,0,0.0
+4.交通运输、仓储和邮政业,"4.Transport,Storage and Post",15,12,0,0,0.0
+"5.批发、零售业和住宿、
+        餐饮业","5.Wholesale and Retail Trades,
+           Hotels and Catering Services",255,225,214,210,186.0
+6.其他行业,6.Other Sectors,171,151,143,133,114.0
+7.生活消费,7.Household Consumption,479,503,478,470,452.0
+在总量中：,Consumption by Usage,,,,,
+1.终端消费,1.End-use Consumption,7084,6639,6496,6051,5912.0
+#工业,Industry,6119,5707,5636,5219,5143.0
+2.用于加工转换,2.Energy Conversion,36049,32152,32934,32960,33325.0
+火力发电,Thermal Power,20516,18499,19362,19091,18926.0
+供    热,Heating,8128,8244,8689,9143,9345.0
+洗煤损耗,Losses in Coal Washing and Dressing,468,732,360,344,389.0
+炼    焦,Coking,6763,4464,4324,3900,4181.0
+制    气,Gas Production,171,201,186,482,481.0
+型煤加工损耗,Losses in briquette Processing,4,12,13,(0),3.0
+3. 损 失 量,3.Other Losses,0,,,,0.0
+三、平衡差额,Balance,0,,,,0.0

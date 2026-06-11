@@ -1,0 +1,22 @@
+ConstructionCostEstimationAnalysisTable-ProjectName:TemporaryNationalWall(100masthebasisforcalculation)-SerialNumber,ConstructionCostEstimationAnalysisTable-ProjectName:TemporaryNationalWall(100masthebasisforcalculation)-ItemCode,ConstructionCostEstimationAnalysisTable-ProjectName:TemporaryNationalWall(100masthebasisforcalculation)-Sub-itemName,ConstructionCostEstimationAnalysisTable-ProjectName:TemporaryNationalWall(100masthebasisforcalculation)-Unit,ConstructionCostEstimationAnalysisTable-ProjectName:TemporaryNationalWall(100masthebasisforcalculation)-UnitPrice,ConstructionCostEstimationAnalysisTable-ProjectName:TemporaryNationalWall(100masthebasisforcalculation)-UnitPrice.1,ConstructionCostEstimationAnalysisTable-Section:-UnitPrice,ConstructionCostEstimationAnalysisTable-Section:-ComprehensiveUnitPriceComposition(Yuan),ConstructionCostEstimationAnalysisTable-Section:-ComprehensiveUnitPriceComposition(Yuan).1,ConstructionCostEstimationAnalysisTable-Section:-ComprehensiveUnitPriceComposition(Yuan).2
+Serial Number,Item Code,Sub-item Name,Unit,Quantity,Comprehensive Unit Price,Total,Labor Cost,Material Cost,Mechanical Cost
+1,010+*******,Control Foundation Soil Force,m3,,,,,,
+,,Manual excavation of trenches and ditches in Class III dry soil with depth within 1.5m,m3,48.16,12.0,577.92,,,12.0
+2,010+*******,Earth (Rock) Backfill,m3,,,,,,
+,,Trench Pit Backfill Compaction,m3,31.84,13.0,413.92,8.0,,5.0
+3,010*********,Sub-base,m3,,,,,,6.0
+,,C10 Concrete Base Course without Reinforcement,m3,9.52,310.14,2952.53,30.0,280.14,7.0
+,,Formwork for Concrete Base Course,m2,31.044,38.4,1192.09,30.0,8.4,8.0
+4,010+********,Girders,m3,,,,,,9.0
+,,Cast-in-place C25 ring beam (non-pump commercial concrete),m3,2.54,352.77,896.04,30.0,322.77,10.0
+,,Composite wooden formwork for ring beam trench support beam,m2,20.75,38.4,796.8,30.0,8.4,11.0
+5,010*********,Reinforcement for cast-in-place concrete,t,,,,,,12.0
+,,Rebar in cast-in-place concrete members within 12m,t,0.117,5090.0,595.53,500.0,4590.0,13.0
+6,010*********,Brick Foundation,m3,,,,,,14.0
+,,M7.5 Straight Brick Foundation,m3,8.16,496.4,4050.62,200.0,296.4,15.0
+7,010*********,Solid brick wall,m3,,,,,,16.0
+,,M7.5 Mixed Mortar Retaining Wall,m3,47.19,502.1,23694.1,200.0,302.1,17.0
+8,020*********,Wall General Plastering,m2,,,,,,18.0
+,,Plastering brick exterior wall and wall skirt with 1.5 thick cement mortar,m2,531.85,19.9,10581.69,15.0,4.9,19.0
+9,010******Mid*,Solid brick column,m3,,,,,,20.0
+,,M10 Square Brick Column,m3,11.5,478.6,5503.9,200.0,278.6,

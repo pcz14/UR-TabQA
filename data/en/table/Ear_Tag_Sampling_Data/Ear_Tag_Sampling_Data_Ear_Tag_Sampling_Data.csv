@@ -1,0 +1,108 @@
+Serial Number,Province,Livestock Species,Task ID,Ear Tag Box Number,Ear Tag Package Number,Applying Institution
+1,Tianjin City,Sheep,64235,39-3000010-00000977,39-3120111-00001288,Xiqing District Animal Husbandry and Veterinary Station
+2,Hebei Province,Cattle,62991,24-2000011-00001318,24-2131126-00000599,Hebei Gu Cheng County Animal Disease Prevention and Control Center
+2,Hebei Province,Cattle,62991,24-2000011-00001318,24-2131126-00000598,Hebei Gu Cheng County Animal Disease Prevention and Control Center
+3,Hebei Province,Sheep,62992,24-3000008-00003350,24-3131126-00000575,Hebei Gu Cheng County Animal Disease Prevention and Control Center
+4,Shanxi Province,Pig,63179,19-1000005-00001169,19-1140825-00002351,Xingjiang County Bureau of Animal Husbandry and Veterinary Medicine
+5,Shanxi Province,Cattle,58734,49-2000005-00000060,49-2140726-00000151,Taigu County Animal Husbandry and Veterinary Bureau
+6,Shanxi Province,Sheep,62929,14-3000006-00003144,14-3140725-00003337,Shouyang Animal Husbandry and Veterinary Bureau
+7,Shanxi Province,Sheep,56928,43-3000063-00000768,43-3140424-00001157,Tunliu County Animal Husbandry and Veterinary Bureau
+8,Inner Mongolia Autonomous Region,Cattle,58439,23-2000011-00002156,23-2150426-00003722,Wengniute Banner Animal Disease Prevention and Control Center
+9,Inner Mongolia Autonomous Region,Sheep,54298,34-3000012-00001042,34-3150981-00011472,Fengzhen City Animal Disease Prevention and Control Center
+10,Liaoning Province,Pig,64885,15-1000014-00000181,15-1211303-00004639,Chaoyang City Longcheng District Animal Disease Prevention and Supervision Office
+11,Liaoning Province,Cattle,64886,15-2000013-00000192,15-2211303-00000425,Chaoyang City Longcheng District Animal Disease Prevention and Supervision Office
+12,Liaoning Province,Cattle,56599,28-2000006-00000890,28-2211221-00001500,Tieling County Animal Disease Prevention and Supervision Institute
+13,Liaoning Province,Sheep,56594,13-3000007-00002509,13-3210682-00006827,Fengcheng City Animal Health Supervision Office
+14,Liaoning Province,Sheep,64887,15-3000013-00000191,15-3211303-00001910,Chaoyang City Longcheng District Animal Disease Prevention and Supervision Office
+15,Jilin Province,Pig,47459,39-1000011-00000517,39-1220283-00004115,Shulan City Animal Disease Prevention and Control Center
+16,Jilin Province,Sheep,64365,09-3000010-00005719,09-3220502-00000300,Dongchang District Animal Husbandry and Veterinary Bureau
+17,Jilin Province,Sheep,62788,01-3000009-00021434,01-3220381-00004591,Gongzuling City Animal Disease Prevention and Control Center
+18,Heilongjiang Province,Pig,47208,23-1000021-00000074,23-1231226-00002230,Suileng County Veterinary Health and Epidemic Prevention Station
+19,Heilongjiang Province,Cattle,46932,09-2000028-00004018,09-2230624-00003118,Durbete Mongol Autonomous County Veterinary Health and Epidemic Prevention Station
+20,Heilongjiang Province,Cattle,47025,12-2000011-00000750,12-2230833-00000131,Fuyuan County Veterinary Health and Epidemic Prevention Station
+21,Heilongjiang Province,Cattle,47209,17-2000017-00000289,17-2231226-00000616,Suileng County Veterinary Health and Epidemic Prevention Station
+21,Heilongjiang Province,Cattle,47209,17-2000017-00000289,17-2231226-00000615,Suileng County Veterinary Health and Epidemic Prevention Station
+22,Heilongjiang Province,Cattle,51534,43-2000060-00000790,43-2230621-00001300,Zhaozhou County Veterinary Health and Epidemic Prevention Station
+23,Jiangsu Province,Pig,62592,10-1000005-00001459,10-1320116-00004726,Liuhe District Animal Husbandry and Veterinary Station
+24,Jiangsu Province,Pig,62344,16-1000018-00001174,16-1321011-00000682,Weiyang District Animal Husbandry and Veterinary Station
+25,Jiangsu Province,Cattle,62267,13-2000008-00002617,13-2321112-00000040,Dantu District Animal Husbandry and Veterinary Station
+26,Jiangsu Province,Sheep,62262,10-3000009-00006422,10-3320124-00001230,Lishui County Animal Husbandry and Veterinary Service Station
+26,Jiangsu Province,Sheep,62262,10-3000009-00006422,10-3320124-00001229,Lishui County Animal Husbandry and Veterinary Service Station
+27,Jiangsu Province,Sheep,62598,16-3000019-00001053,16-3320705-00000282,Xinpü District Animal Husbandry and Veterinary Station
+28,Zhejiang Province,Pig,64284,17-1000016-00001711,17-1331121-00000702,Qingtian County Animal Health Supervision Office
+29,Zhejiang Province,Pig,64595,01-1000012-00021677,01-1331002-00003017,Jiaojiang District Bureau of Animal Husbandry and Veterinary Medicine
+30,Zhejiang Province,Sheep,63967,17-3000016-00001713,17-3330902-00000101,Dinghai District Bureau of Animal Husbandry and Veterinary Medicine
+31,Anhui Province,Pig,61805,13-1000007-00002838,13-1341702-00004794,Chizhou City Guichi District Animal Husbandry and Veterinary Bureau
+32,Anhui Province,Cattle,61010,06-2000011-00010765,06-2341122-00000311,Lai'an County Animal Husbandry and Veterinary Bureau
+33,Anhui Province,Cattle,51149,21-2000005-00001165,21-2341802-00000250,Xuanzhou District Animal Husbandry and Veterinary Administration Bureau
+34,Fujian Province,Pig,51594,30-1000006-00001654,30-1350783-00002917,Jian'ou City Animal Husbandry and Veterinary Service Station
+35,Fujian Province,Cattle,51498,30-2000008-00001559,30-2350525-00000155,Yongchun County Animal Disease Prevention and Control Center
+35,Fujian Province,Cattle,51498,30-2000008-00001559,30-2350525-00000154,Yongchun County Animal Disease Prevention and Control Center
+36,Fujian Province,Sheep,51596,30-3000006-00001678,30-3350783-00000324,Jian'ou City Animal Husbandry and Veterinary Service Station
+37,Jiangxi Province,Pig,61844,27-1000005-00003672,27-1360829-00004641,Anfu County Veterinary Health Supervision Office
+38,Jiangxi Province,Pig,60545,28-1000006-00001098,28-1361128-00012712,Poyang County Veterinary Health Supervision Office
+39,Jiangxi Province,Cattle,59669,07-2000007-00004789,07-2360603-00000064,Longhu Mountain Scenic Tourism Area Animal Health Supervision Office
+40,Jiangxi Province,Cattle,51262,27-2000005-00003266,27-2360109-00000400,Nanchang Yingxiong Economic Development Zone Animal Health Supervision Office
+41,Jiangxi Province,Sheep,59670,07-3000010-00005113,07-3360603-00000126,Longhu Mountain Scenic Tourism Area Animal Health Supervision Office
+42,Jiangxi Province,Sheep,51263,27-3000005-00003235,27-3360109-00000100,Nanchang Yingxiong Economic Development Zone Animal Health Supervision Office
+43,Jiangxi Province,Sheep,59675,28-3000006-00001061,28-3361124-00000289,Yanshan County Veterinary Health Supervision Office
+44,Shandong Province,Pig,60187,00-1000017-00005587,00-1370285-00019142,Laixi Animal Husbandry Bureau
+45,Shandong Province,Pig,63094,14-1000011-00002908,14-1370883-00021832,Zoucheng City Animal Husbandry Bureau
+46,Shandong Province,Cattle,60191,00-2000014-00003449,00-2370285-00008074,Laixi Animal Husbandry Bureau
+46,Shandong Province,Cattle,60191,00-2000014-00003449,00-2370285-00008073,Laixi Animal Husbandry Bureau
+47,Shandong Province,Cattle,57326,34-2000014-00002293,34-2370502-00005749,Dongying District Animal Disease Prevention and Control Center
+48,Shandong Province,Sheep,60192,00-3000030-00002629,00-3370285-00002940,Laixi Animal Husbandry Bureau
+49,Shandong Province,Sheep,57716,06-3000010-00013699,06-3371103-00006619,Lanshan District Animal Disease Prevention and Supervision Office
+50,Shandong Province,Sheep,57736,16-3000009-00000398,16-3371728-00010396,Dongming County Veterinary Health Supervision Office
+51,Henan Province,Pig,65128,06-1000005-00012275,06-1410821-00025426,Xiuwu County Animal Health Supervision Office
+52,Henan Province,Pig,64636,10-1000005-00001821,10-1411502-00006096,Shihe District Animal Health Supervision Office
+53,Henan Province,Pig,63574,12-1000024-00001464,12-1410883-00011254,Mengzhou Animal Quarantine Station
+54,Henan Province,Cattle,64965,14-2000006-00003322,14-2411403-00000630,Suiyang District Animal Health Supervision Office
+55,Henan Province,Sheep,64608,29-3000008-00001077,29-3410402-00000105,Xinhua District Animal Quarantine Station
+56,Hubei Province,Pig,55864,03-1000015-00000863,03-1420881-00037507,Zhongxiang City Veterinary Station
+57,Hubei Province,Cattle,55865,03-2000013-00002087,03-2420881-00004046,Zhongxiang City Veterinary Station
+57,Hubei Province,Cattle,55865,03-2000013-00002087,03-2420881-00004045,Zhongxiang City Veterinary Station
+57,Hubei Province,Cattle,55865,03-2000013-00002087,03-2420881-00004044,Zhongxiang City Veterinary Station
+58,Hubei Province,Sheep,55866,03-3000010-00001627,03-3420881-00002147,Zhongxiang City Veterinary Station
+59,Hunan Province,Pig,63189,21-1000008-00000231,21-1433125-00005107,Baojing County Animal Disease Prevention and Inspection Station
+60,Hunan Province,Pig,59817,22-1000006-00001067,22-1430382-00005001,Shaoshan City Animal Husbandry Bureau Prevention and Inspection Station
+61,Hunan Province,Cattle,60064,22-2000006-00001075,22-2430102-00000230,"Furong District Bureau of Agriculture, Forestry, and Water Resources"
+62,Hunan Province,Sheep,60665,21-3000008-00000209,21-3430721-00000289,Anxiang County Animal Disease Prevention and Supervision Station
+63,Hunan Province,Sheep,46459,22-3000006-00000521,22-3431123-00000716,Shuangpai County Animal Disease Prevention and Supervision Station
+64,Guangdong Province,Pig,64833,43-1000060-00003222,43-1440881-00017193,Lianjiang Animal Health Supervision Office
+64,Guangdong Province,Cattle,64033,37-2000006-00000414,37-2441881-00000400,Yingde City Animal Health Supervision Office
+65,Guangxi Zhuang Autonomous Region,Pig,63466,07-1000003-00006402,07-1450126-00009587,Binyang County Animal Disease Prevention and Control Center
+66,Guangxi Zhuang Autonomous Region,Cattle,63755,01-2000009-00021369,01-2451002-00001584,Youjiang District Animal Disease Prevention and Control Center
+67,Hainan Province,Cattle,45703,09-2000040-00000385,09-2469025-00000600,Ding'an Animal Husbandry and Veterinary Bureau
+68,Chongqing City,Pig,63664,16-1000018-00001332,16-1500233-00017713,Zhongxian Animal Disease Prevention and Supervision Office
+69,Chongqing City,Cattle,64503,00-2000006-00110052,00-2500112-00000025,Chongqing Yubei District Animal Health Supervision Office
+69,Chongqing City,Cattle,64503,00-2000006-00110052,00-2500112-00000024,Chongqing Yubei District Animal Health Supervision Office
+70,Sichuan Province,Pig,63603,09-1000001-00006342,09-1513401-00020354,Xichang City Animal Disease Prevention and Supervision Station
+71,Sichuan Province,Cattle,55161,08-2000019-00000502,08-2510921-00001723,Pengxi County Animal Disease Prevention and Supervision Office
+72,Sichuan Province,Sheep,55163,08-3000019-00000473,08-3510921-00009070,Pengxi County Animal Disease Prevention and Supervision Office
+73,Guizhou Province,Pig,59983,02-1000025-00002599,02-1522629-00005776,Jianhe County Animal Disease Prevention and Inspection Station
+74,Guizhou Province,Cattle,62043,14-2000008-00003029,14-2522401-00003291,Bijie City Animal Health Supervision Office
+75,Guizhou Province,Sheep,59987,02-3000023-00002444,02-3522625-00001408,Zhenyuan County Animal Health Supervision Office
+76,Yunnan Province,Pig,64720,38-1000006-00003667,38-1532301-00005035,Chuxiong City Animal Health Supervision Office
+77,Yunnan Province,Cattle,62371,38-2000007-00002340,38-2530103-00000065,"Panlong District Animal Husbandry, Veterinary Medicine, and Animal Inspection Station"
+78,Yunnan Province,Sheep,64722,38-3000007-00003082,38-3532301-00000905,Chuxiong City Animal Health Supervision Office
+79,Tibet Autonomous Region,Cattle,51963,39-2000013-00000004,39-2542621-00000104,"Linzhi County Animal Disease Prevention Station, Linzhi Region"
+80,Shaanxi Province,Pig,59803,25-1000008-00001227,25-1610424-00003332,Qian County Animal Husbandry and Veterinary Center
+81,Shaanxi Province,Pig,61986,46-1000006-00001273,46-1611025-00006357,Zhen'an County Animal Disease Prevention and Control Center
+82,Shaanxi Province,Cattle,59786,25-2000008-00001201,25-2610404-00000291,Weicheng District Animal Disease Prevention and Control Center
+83,Shaanxi Province,Cattle,61984,46-2000005-00001273,46-2611025-00000770,Zhen'an County Animal Disease Prevention and Control Center
+84,Shaanxi Province,Sheep,59816,18-3000012-00001832,18-3610204-00001483,Yaozhuang District Animal Husbandry and Veterinary Service Station
+85,Shaanxi Province,Sheep,59805,25-3000009-00001374,25-3610424-00001260,Qian County Animal Husbandry and Veterinary Center
+86,Shaanxi Province,Sheep,61985,46-3000008-00000410,46-3611025-00005400,Zhen'an County Animal Disease Prevention and Control Center
+87,Gansu Province,Pig,51386,41-1000013-00000091,41-1620503-00005159,Ma ji District Animal Husbandry and Veterinary Bureau
+88,Gansu Province,Cattle,51387,41-2000006-00000073,41-2620503-00001739,Ma ji District Animal Husbandry and Veterinary Bureau
+89,Gansu Province,Sheep,51364,12-3000017-00000927,12-3620621-00022381,Minqin Animal Husbandry and Veterinary Bureau
+90,Gansu Province,Sheep,51005,41-3000012-00000112,41-3621227-00000564,Hui County Animal Husbandry Center
+91,Qinghai Province,Pig,50091,34-1000014-00001450,34-1630104-00000347,Xiqing District Animal Disease Prevention and Control Center
+92,Qinghai Province,Cattle,50092,34-2000013-00001795,34-2630104-00000014,Xiqing District Animal Disease Prevention and Control Center
+93,Qinghai Province,Sheep,50063,23-3000006-00001202,23-3632621-00005051,Maqin County Animal Disease Prevention and Control Center
+94,Ningxia Hui Autonomous Region,Pig,53391,48-1000012-00000005,48-1640425-00002785,Pengyang County Animal Disease Prevention and Control Center
+95,Ningxia Hui Autonomous Region,Cattle,53392,48-2000010-00000003,48-2640425-00003120,Pengyang County Animal Disease Prevention and Control Center
+96,Ningxia Hui Autonomous Region,Sheep,49072,35-3000006-00001708,35-3640323-00023640,Yanchi County Animal Disease Prevention and Control Center
+97,Ningxia Hui Autonomous Region,Sheep,53393,48-3000011-00000005,48-3640425-00008730,Pengyang County Animal Disease Prevention and Control Center
+98,Xinjiang Uygur Autonomous Region,Cattle,62594,50-2000001-00000009,50-2652323-00003220,Hutubi County Animal Health Supervision Office

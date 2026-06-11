@@ -1,0 +1,31 @@
+Unnamed:0,Unnamed:1-MerchandisePurchaseStatisticsTable-SerialNumber,Unnamed:2-PurchaseDate,Unnamed:3-ProductionDate,Unnamed:4-CommodityName,Unnamed:5-SpecificationModel,Unnamed:6-Quantity,Unnamed:7-Unit,Unnamed:8-PurchaseUnitPrice,Unnamed:9-Amount,Unnamed:10-Supplier,Unnamed:11-Responsibleperson,Unnamed:12-Number,Unnamed:13-ShelfLife(Days),Unnamed:14-EffectiveDate,Unnamed:15-Status
+,1,2019-12-10 00:00:00,2019-03-01 00:00:00,Product 1,Specification 1,78,piece,80,6240,Supplier A,Zhang San,A0002134,184,2019-09-01 00:00:00,Valid
+,2,2019-12-11 00:00:00,2019-03-02 00:00:00,Product 2,Specification 2,79,piece,81,6399,Supplier A,Zhang San,A0002135,92,2019-06-02 00:00:00,Valid
+,3,2019-12-12 00:00:00,2019-03-03 00:00:00,Product 3,Specification 3,80,piece,82,6560,Supplier A,Zhang San,A0002136,31,2019-04-03 00:00:00,Valid
+,4,2019-12-13 00:00:00,2019-03-04 00:00:00,Product 4,Spec 4,81,piece,83,6723,Supplier A,Zhang San,A0002137,0,2019-03-04 00:00:00,Valid
+,5,2019-12-14 00:00:00,2019-03-05 00:00:00,Product 5,Spec 5,82,piece,84,6888,Supplier A,Zhang San,A0002138,-28,2019-02-05 00:00:00,Expired
+,6,2019-12-15 00:00:00,2019-03-06 00:00:00,Product 6,Spec 6,83,piece,85,7055,Supplier A,Zhang San,A0002139,184,2019-09-06 00:00:00,
+,7,2019-12-16 00:00:00,2019-03-07 00:00:00,Product 7,Specification 7,84,piece,86,7224,Supplier A,Zhang San,A0002140,184,2019-09-07 00:00:00,
+,8,2019-12-17 00:00:00,2019-03-08 00:00:00,Product 8,Specification 8,85,piece,87,7395,Supplier A,Zhang San,A0002141,0,2019-03-08 00:00:00,Expired
+,9,2019-12-18 00:00:00,2019-03-09 00:00:00,Product 9,Specification 9,86,piece,88,7568,Supplier A,Zhang San,A0002142,184,2019-09-09 00:00:00,
+,10,2019-12-19 00:00:00,2019-03-10 00:00:00,Product 10,Specification 10,87,piece,89,7743,Supplier A,Zhang San,A0002143,184,2019-09-10 00:00:00,
+,11,2019-12-20 00:00:00,2019-03-11 00:00:00,Product 11,Specification 11,88,piece,90,7920,Supplier A,Zhang San,A0002144,184,2019-09-11 00:00:00,
+,12,2019-12-21 00:00:00,2019-03-12 00:00:00,Product 12,Spec12,89,piece,91,8099,Supplier A,Zhang San,A0002145,184,2019-09-12 00:00:00,
+,13,2019-12-22 00:00:00,2019-03-13 00:00:00,Product 13,Spec13,90,piece,92,8280,Supplier A,Zhang San,A0002146,-59,2019-01-13 00:00:00,Expired
+,14,2019-12-23 00:00:00,2019-03-14 00:00:00,Product 14,Specification 14,91,piece,93,8463,Supplier A,Zhang San,A0002147,184,2019-09-14 00:00:00,
+,15,2019-12-24 00:00:00,2019-03-15 00:00:00,Product 15,Specification 15,92,piece,94,8648,Supplier A,Zhang San,A0002148,184,2019-09-15 00:00:00,
+,16,2019-12-25 00:00:00,2019-03-16 00:00:00,Product 16,Specification 16,93,piece,95,8835,Supplier A,Zhang San,A0002149,-59,2019-01-16 00:00:00,
+,17,2019-12-26 00:00:00,2019-03-17 00:00:00,Product 17,Specification 17,94,piece,96,9024,Supplier A,Zhang San,A0002150,184,2019-09-17 00:00:00,
+,18,2019-12-27 00:00:00,2019-03-18 00:00:00,Product 18,Spec 18,95,piece,97,9215,Supplier A,Zhang San,A0002151,184,2019-09-18 00:00:00,
+,19,2019-12-28 00:00:00,2019-03-19 00:00:00,Product 19,Specification 19,96,piece,98,9408,Supplier A,Zhang San,A0002152,-28,2019-02-19 00:00:00,Expired
+,20,2019-12-29 00:00:00,2019-03-20 00:00:00,Product 20,Specification 20,97,piece,99,9603,Supplier A,Zhang San,A0002153,184,2019-09-20 00:00:00,
+,21,2019-12-30 00:00:00,2019-03-21 00:00:00,Product 21,Specification 21,98,piece,100,9800,Supplier A,Zhang San,A0002154,184,2019-09-21 00:00:00,
+,22,2019-12-31 00:00:00,2019-03-22 00:00:00,Product 22,Specification 22,99,piece,101,9999,Supplier A,Zhang San,A0002155,184,2019-09-22 00:00:00,
+,23,2020-01-01 00:00:00,2019-03-23 00:00:00,Product 23,Specification 23,100,piece,102,10200,Supplier A,Zhang San,A0002156,0,2019-03-23 00:00:00,Expired
+,24,2020-01-02 00:00:00,2019-03-24 00:00:00,Product 24,Specification 24,101,piece,103,10403,Supplier A,Zhang San,A0002157,184,2019-09-24 00:00:00,
+,25,2020-01-03 00:00:00,2019-03-25 00:00:00,Product 25,Specification 25,102,piece,104,10608,Supplier A,Zhang San,A0002158,184,2019-09-25 00:00:00,
+,26,2020-01-04 00:00:00,2019-03-26 00:00:00,Product 26,Specification 26,103,piece,105,10815,Supplier A,Zhang San,A0002159,184,2019-09-26 00:00:00,
+,27,2020-01-05 00:00:00,2019-03-27 00:00:00,Product 27,Specification 27,104,piece,106,11024,Supplier A,Zhang San,A0002160,184,2019-09-27 00:00:00,
+,28,2020-01-06 00:00:00,2019-03-28 00:00:00,Product 28,Specification 28,105,piece,107,11235,Supplier A,Zhang San,A0002161,184,2019-09-28 00:00:00,
+,29,2020-01-07 00:00:00,2019-03-29 00:00:00,Product 29,Specification 29,106,piece,108,11448,Supplier A,Zhang San,A0002162,184,2019-09-29 00:00:00,
+,30,2020-01-08 00:00:00,2019-03-30 00:00:00,Product 30,Specification 30,107,piece,109,11663,Supplier A,Zhang San,A0002163,184,2019-09-30 00:00:00,

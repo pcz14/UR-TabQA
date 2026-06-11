@@ -1,0 +1,29 @@
+Building Name,City Location,Completion Time,Number of floors,Height of the building,"Land Area  
+(10,000 square meters)","Building Area (10,000 square meters)","Total Investment
+(Billion Yuan)","Per unit investment
+(Yuan)","Total Cost
+(100 million yuan)","Unit Cost
+(Yuan)",Remarks
+Beijing TV Center,Beijing,2006,41,239.0,3.61,20.2,35,17327,20,9901,"The steel weight reached 38,000 tons, with 41 floors above ground and 3 floors underground;"
+Jingguang Center,Beijing,1990,57,209.0,2.89,14.5,22.4,15448,-,-,Underground 3 floors:
+CCTV Headquarters Building,Beijing,2009,52,234.0,-,49.49,50,10103,46.5,9396,"The total steel measurement is 125,000 tons;"
+Water Cube,Beijing,2008,-,177.0,6.3,7.95,-,-,10.2,12830,Space frame with membrane structure:
+Yintai Center,Beijing,2008,63,249.0,3.1,35.0,40,11429,35,10000,"It has three main buildings, with the east and west grid towers being Grade A office buildings (SA), and the central main tower being the control structure:"
+Shanghai International Shipping Tower,Shanghai,1999,50,232.4,1.2,12.5,15,12000,-,-,Contains high-end intelligent office buildings and four-star business hotels for foreign affairs;
+John Hancock Center,Shanghai,2008,101,492.0,3,38.16,83,21751,52,13627,"Floors 79~93 are the Shanghai Plaza Hotel, with 3 underground floors:"
+Jinmao Tower,Shanghai,1998,88,420.5,2.3,29.0,50,17241,-,-,Aluminum reinforced concrete structure: There is Jinmao Kaiyue Grand Theater inside:
+Shanghai Shimao International Plaza,Shanghai,2007,60,333.3,-,17.0,30,17647,-,-,The first tower is a high-end pharmaceutical center: floors 11 to 60 are a five-star hotel:
+Shanghai Information Hub Center Building,Shanghai,2001,41,288.0,0.825,10.12,10,9881,-,-,Underground four levels:
+Bank of China Tower in Shanghai,Shanghai,2000,53,258.0,0.4126,12.3,$230 million,1870 dollars,-,-,"Underground three levels, reinforced concrete structure, external root frame beams are steel beams;"
+Tomorrow Square,Shanghai,2003,58,283.0,10,12.7,28,22047,-,-,"Liquid-containing apartment, five-star hotel:"
+CITIC Plaza,Guangzhou,1997,80,391.0,2.3,29.0,40,13793,-,-,"Composed of an 80-floor main tower and two 38-floor new buildings, it is equipped with 68 elevators;"
+Guangzhou CTF Finance Centre {Guangzhou International Financial Center},Guangzhou,2010,103,432.0,3.1084,45.6,60,13158,-,-,Including Grade A intelligent office buildings and five-star self-funded hotels;
+Guangdong Telecom Plaza,Guangzhou,2005,68,249.9,0.9,14.5,-,-,9.6,6621,"Underground 6 floors, above-ground podium 8 floors and tower 60 floors, total of 68 floors:"
+Guangzhou Opera House,Guangzhou,2010,7,43.1,4.2,7.3,13.8,18904,10,13699,"Total steel usage is approximately 12,000 tons, with a seating capacity of 1,800:"
+Guangdong TV Observation Tower,Guangzhou,2010,-,601.0,17.546,11.4,22,19298,-,-,"Used high-strength steel amounting to 50,000 tons;"
+Nanfang International Mansion,Guangzhou,1999,50,201.0,1.28,12.0,11,9167,-,-,Ten-story storage building and 40-story tower;
+Zhonghua Plaza Office Building,Guangzhou,2000,62,270.0,3.5,17.0,16,9412,-,-,"A. B Xianxi Tower, A Tower has 26 floors and a total height of 128 meters; B Tower has 62 floors and a total height of 268 meters."
+Brain International Plaza,Guangzhou,2010,59,269.2,0.7429,12.3,13.88,11285,-,-,"The building height is 213 meters, and with the top antenna it reaches 269.4 meters;"
+Zifeng Tower,Nanjing,2009,89,450.0,1.8721,26.1057,-,-,40,15322,More than 50 vertical elevators and over 30 automatic high-speed elevators are installed inside:
+Nanjing International Plaza,Nanjing,2008,82,357.0,3.2477,48.0,About 50,10417,-,-,Construction was suspended in 2006 due to a lack of funds and later resumed after Morgan Stanley provided funding.
+Jinao Mansion,Nanjing,2007,54,232.0,2.551,22.1536,15,6771,-,-,Includes a 50-story main building and a 4-story annex:

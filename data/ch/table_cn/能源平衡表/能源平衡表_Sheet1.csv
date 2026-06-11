@@ -1,0 +1,34 @@
+7-9综合能源平衡表-OverallEnergyBalanceSheet-单位：万吨标准煤,7-9综合能源平衡表-OverallEnergyBalanceSheet,7-9综合能源平衡表-OverallEnergyBalanceSheet.1,7-9综合能源平衡表-OverallEnergyBalanceSheet.2,7-9综合能源平衡表-OverallEnergyBalanceSheet.3,7-9综合能源平衡表-OverallEnergyBalanceSheet.4,7-9综合能源平衡表-OverallEnergyBalanceSheet-(10000tonsofSCE)
+项     目,Item,2019,2020,2021,2022,2023
+,,,,,,
+可供消费的能源总量,Total Energy Available for Consumption,41390,43649,45935,48167,52589
+一次能源生产量,Primary Energy Production,13500,13213,13031,13588,15183
+外省(区、市)调入量,Allocation from Other Provinces,36083,31945,34227,31744,60413
+进口量,Imports,14622,16554,14572,13935,28649
+本省(区、市)调出量(－),Allocation to Other Provinces(-),(22326),(18378),(14938),(11857),(52370)
+出口量(-),Exports(-),(49),(3),(94),(259),(248)
+年初年末库存差额,Stock Changes in the Year,(440),316,(862),1016,962
+能源消费总量,Total Energy Consumption,41390,43649,45935,48167,52589
+在总量中：,Consumption by sector,0,,,,
+1.农林牧渔业,"1.Agriculture,Forestry,Animal Husbandry
+          and Fishery",600,575,583,626,682
+2.工  业,2.Industry,31294,33627,35353,37051,40545
+3.建筑业,3.Construction,481,501,535,535,568
+4.交通运输、仓储和邮政业,"4.Transport,Storage and Post",2382,2038,2182,2276,2462
+5.批发、零售业和住宿、餐饮业,"5.Wholesale and Retail Trades,Hotels and
+           Catering Services",987,978,1073,1057,1192
+6.其他行业,6.Other Sectors,1454,1491,1613,1715,1843
+7.生活消费,7.Household Consumption,4192,4439,4595,4907,5298
+在总量中：,Consumption by Usage,0,,,,
+(一) 终端消费,(Ⅰ)End-use Consumption,40359,42982,45156,47314,52381
+#工业,Industry,30263,32960,34574,36197,40337
+(二) 加工转换损失量,"(Ⅱ)Losses During the Process of 
+              Energy Conversion",1031,667,779,853,207
+炼焦,Coking,3,341,327,311,82
+炼油,Petroleum Refining,1623,923,1019,1062,973
+(三) 损失量,(Ⅲ)Energy Losses,0,,,,1
+平衡差额,Balance,0,0,,,0
+,,,,,,
+,,,,,,
+注：本表使用等价折标系数折算标准煤。,,,,,,
+a) Data of standard coal equivalent are calculated on the basis of the consumed heat value equivalent.,,,,,,

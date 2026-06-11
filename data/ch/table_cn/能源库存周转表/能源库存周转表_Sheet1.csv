@@ -1,0 +1,47 @@
+6-4主要能源库存量和周转天数-StockandRevolvingDaysofMajorEnergy-单位：万吨、天,6-4主要能源库存量和周转天数-StockandRevolvingDaysofMajorEnergy,6-4主要能源库存量和周转天数-StockandRevolvingDaysofMajorEnergy.1,6-4主要能源库存量和周转天数-StockandRevolvingDaysofMajorEnergy.2,6-4主要能源库存量和周转天数-StockandRevolvingDaysofMajorEnergy.3,6-4主要能源库存量和周转天数-StockandRevolvingDaysofMajorEnergy.4,"6-4主要能源库存量和周转天数-StockandRevolvingDaysofMajorEnergy-(10000tons,day)"
+项    目,Item,2016.0,2017.0,2018.0,2019.0,2020.0
+,,,,,,
+煤炭,Coal,,,,,
+年末库存量,Stock (year-end),412.0,515.0,609.0,695.0,492.0
+消费量,Consumption,8468.0,7815.0,7496.0,7713.0,7502.0
+库存周转天数,Revolving Days of Stock,18.0,24.0,30.0,33.0,24.0
+原煤,Raw Coal,,,,,
+年末库存量,Stock (year-end),278.0,348.0,426.0,495.0,367.0
+消费量,Consumption,10117.0,8419.0,8167.0,8320.0,7754.0
+库存周转天数,Revolving Days of Stock,10.0,15.0,19.0,22.0,17.0
+洗精煤,Coal Washed and Dressed,,,,,
+年末库存量,Stock (year-end),96.0,112.0,140.0,161.0,97.0
+消费量,Consumption,1742.0,1535.0,1581.0,1571.0,1505.0
+库存周转天数,Revolving Days of Stock,20.0,27.0,32.0,37.0,24.0
+其他洗煤,Other Washed Coal,,,,,
+年末库存量,Stock (year-end),36.0,48.0,38.0,39.0,26.0
+消费量,Consumption,481.0,547.0,458.0,368.0,405.0
+库存周转天数,Revolving Days of Stock,27.0,32.0,30.0,38.0,23.0
+焦炭,Coke,,,,,
+年末库存量,Stock (year-end),23.0,35.0,32.0,33.0,44.0
+消费量,Consumption,1129.0,1127.0,1166.0,1303.0,1216.0
+库存周转天数,Revolving Days of Stock,7.0,11.0,10.0,9.0,13.0
+石油,Petroleum,,,,,
+年末库存量,Stock (year-end),95.0,111.0,193.0,143.0,159.0
+消费量,Consumption,2475.0,2580.0,2549.0,2689.0,2584.0
+库存周转天数,Revolving Days of Stock,14.0,16.0,28.0,19.0,23.0
+原油,Crude Oil,,,,,
+年末库存量,Stock (year-end),44.0,46.0,74.0,49.0,52.0
+消费量,Consumption,903.0,956.0,720.0,1010.0,955.0
+库存周转天数,Revolving Days of Stock,18.0,17.0,38.0,18.0,20.0
+汽油,Gasoline,,,,,
+年末库存量,Stock (year-end),13.0,25.0,73.0,39.0,45.0
+消费量,Consumption,801.0,828.0,874.0,917.0,897.0
+库存周转天数,Revolving Days of Stock,6.0,11.0,30.0,16.0,18.0
+煤油,Kerosene,,,,,
+年末库存量,Stock (year-end),2.0,2.0,1.0,9.0,10.0
+消费量,Consumption,210.0,206.0,209.0,214.0,160.0
+库存周转天数,Revolving Days of Stock,3.0,3.0,2.0,16.0,22.0
+柴油,Diesel Oil,,,,,
+年末库存量,Stock (year-end),30.0,25.0,28.0,28.0,37.0
+消费量,Consumption,863.0,888.0,902.0,913.0,899.0
+库存周转天数,Revolving Days of Stock,13.0,10.0,11.0,11.0,15.0
+燃料油,Fuel Oil,,,,,
+年末库存量,Stock (year-end),2.0,2.0,2.0,2.0,1.0
+消费量,Consumption,70.0,66.0,33.0,50.0,41.0
+库存周转天数,Revolving Days of Stock,8.0,10.0,24.0,14.0,11.0

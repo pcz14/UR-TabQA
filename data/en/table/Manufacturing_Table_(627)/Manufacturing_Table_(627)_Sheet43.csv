@@ -1,0 +1,106 @@
+Material Code,Name,Specification,Unit,Quantity,Unit Price,Amount,Entry Date,Order Number,Supplier
+YC0001,Cold rolled steel plate,1.2*1250*1870,"Sheet: Sheet43  
+Column headers:  
+Row 1: Material Code, Name, Specification, Unit, Quantity, Unit Price, Amount, Entry Date, Document No., Supplier  
+Row 2: YC0001, Cold Plate, 1.2*1250*1870, Sheet, 10, ¥100.00, ¥1,000.00, December 1, 2012, No-20120001, Group 1  
+Row 3: YC0008, Cold Plate, 1.2*1250*1877, Sheet, 10, ¥170.00, ¥1,700.00, December 1, 2012, No-20120001, Group 1  
+Row 4: YC0011, Cold Plate, 1.2*1250*1880, Sheet, 10, ¥200.00, ¥2,000.00, December 1, 2012, No-20120001, Group 1  
+Row 5: YC0003, Cold Steel, 1.2*1250*1872, Sheet, 15, ¥120.00, ¥1,800.00, December 14, 2012, No-20120003, Company A",10,¥100.00,"¥1,000.00","December 1, 2012",No-20120001,1 group
+YC0008,Cold rolled steel plate,1.2*1250*1877,"Sheet: Sheet43  
+Column headers:  
+Row 1: Material Code, Name, Specification, Unit, Quantity, Unit Price, Amount, Entry Date, Document No., Supplier  
+Row 2: YC0001, Cold Plate, 1.2*1250*1870, Sheet, 10, ¥100.00, ¥1,000.00, December 1, 2012, No-20120001, Group 1  
+Row 3: YC0008, Cold Plate, 1.2*1250*1877, Sheet, 10, ¥170.00, ¥1,700.00, December 1, 2012, No-20120001, Group 1  
+Row 4: YC0011, Cold Plate, 1.2*1250*1880, Sheet, 10, ¥200.00, ¥2,000.00, December 1, 2012, No-20120001, Group 1  
+Row 5: YC0003, Cold Steel, 1.2*1250*1872, Sheet, 15, ¥120.00, ¥1,800.00, December 14, 2012, No-20120003, Company A",10,¥170.00,"¥1,700.00","December 1, 2012",No-20120001,1 group
+YC0011,Cold rolled steel plate,1.2*1250*1880,"Sheet: Sheet43  
+Column headers:  
+Row 1: Material Code, Name, Specification, Unit, Quantity, Unit Price, Amount, Entry Date, Document No., Supplier  
+Row 2: YC0001, Cold Plate, 1.2*1250*1870, Sheet, 10, ¥100.00, ¥1,000.00, December 1, 2012, No-20120001, Group 1  
+Row 3: YC0008, Cold Plate, 1.2*1250*1877, Sheet, 10, ¥170.00, ¥1,700.00, December 1, 2012, No-20120001, Group 1  
+Row 4: YC0011, Cold Plate, 1.2*1250*1880, Sheet, 10, ¥200.00, ¥2,000.00, December 1, 2012, No-20120001, Group 1  
+Row 5: YC0003, Cold Steel, 1.2*1250*1872, Sheet, 15, ¥120.00, ¥1,800.00, December 14, 2012, No-20120003, Company A",10,¥200.00,"¥2,000.00","December 1, 2012",No-20120001,1 group
+YC0003,Cold pole,1.2*1250*1872,"Sheet: Sheet43  
+Column headers:  
+Row 1: Material Code, Name, Specification, Unit, Quantity, Unit Price, Amount, Entry Date, Document No., Supplier  
+Row 2: YC0001, Cold Plate, 1.2*1250*1870, Sheet, 10, ¥100.00, ¥1,000.00, December 1, 2012, No-20120001, Group 1  
+Row 3: YC0008, Cold Plate, 1.2*1250*1877, Sheet, 10, ¥170.00, ¥1,700.00, December 1, 2012, No-20120001, Group 1  
+Row 4: YC0011, Cold Plate, 1.2*1250*1880, Sheet, 10, ¥200.00, ¥2,000.00, December 1, 2012, No-20120001, Group 1  
+Row 5: YC0003, Cold Steel, 1.2*1250*1872, Sheet, 15, ¥120.00, ¥1,800.00, December 14, 2012, No-20120003, Company A",15,¥120.00,"¥1,800.00","December 14, 2012",No-20120003,A Company
+YC0005,Cold plate,1.2*1250*1874,"Sheet: Sheet43  
+Column headers:  
+Row 1: Material Code, Name, Specification, Unit, Quantity, Unit Price, Amount, Entry Date, Document No., Supplier  
+Row 2: YC0001, Cold Plate, 1.2*1250*1870, Sheet, 10, ¥100.00, ¥1,000.00, December 1, 2012, No-20120001, Group 1  
+Row 3: YC0008, Cold Plate, 1.2*1250*1877, Sheet, 10, ¥170.00, ¥1,700.00, December 1, 2012, No-20120001, Group 1  
+Row 4: YC0011, Cold Plate, 1.2*1250*1880, Sheet, 10, ¥200.00, ¥2,000.00, December 1, 2012, No-20120001, Group 1  
+Row 5: YC0003, Cold Steel, 1.2*1250*1872, Sheet, 15, ¥120.00, ¥1,800.00, December 14, 2012, No-20120003, Company A",15,¥140.00,"¥2,100.00","December 14, 2012",No-20120003,A Company
+YC0007,Cold plate,1.2*1250*1876,"Sheet: Sheet43  
+Column headers:  
+Row 1: Material Code, Name, Specification, Unit, Quantity, Unit Price, Amount, Entry Date, Document No., Supplier  
+Row 2: YC0001, Cold Plate, 1.2*1250*1870, Sheet, 10, ¥100.00, ¥1,000.00, December 1, 2012, No-20120001, Group 1  
+Row 3: YC0008, Cold Plate, 1.2*1250*1877, Sheet, 10, ¥170.00, ¥1,700.00, December 1, 2012, No-20120001, Group 1  
+Row 4: YC0011, Cold Plate, 1.2*1250*1880, Sheet, 10, ¥200.00, ¥2,000.00, December 1, 2012, No-20120001, Group 1  
+Row 5: YC0003, Cold Steel, 1.2*1250*1872, Sheet, 15, ¥120.00, ¥1,800.00, December 14, 2012, No-20120003, Company A",21,¥160.00,"¥3,360.00","December 14, 2012",No-20120003,A Company
+YC0010,Cold rolled steel plate,12*1250*1879,"Sheet: Sheet43  
+Column headers:  
+Row 1: Material Code, Name, Specification, Unit, Quantity, Unit Price, Amount, Entry Date, Document No., Supplier  
+Row 2: YC0001, Cold Plate, 1.2*1250*1870, Sheet, 10, ¥100.00, ¥1,000.00, December 1, 2012, No-20120001, Group 1  
+Row 3: YC0008, Cold Plate, 1.2*1250*1877, Sheet, 10, ¥170.00, ¥1,700.00, December 1, 2012, No-20120001, Group 1  
+Row 4: YC0011, Cold Plate, 1.2*1250*1880, Sheet, 10, ¥200.00, ¥2,000.00, December 1, 2012, No-20120001, Group 1  
+Row 5: YC0003, Cold Steel, 1.2*1250*1872, Sheet, 15, ¥120.00, ¥1,800.00, December 14, 2012, No-20120003, Company A",6,¥190.00,K1140.00,"December 14, 2012",No-20120003,A Company
+YC0012,Cold rolled steel plate,1.2*1250*1881,"Sheet: Sheet43  
+Column headers:  
+Row 1: Material Code, Name, Specification, Unit, Quantity, Unit Price, Amount, Entry Date, Document No., Supplier  
+Row 2: YC0001, Cold Plate, 1.2*1250*1870, Sheet, 10, ¥100.00, ¥1,000.00, December 1, 2012, No-20120001, Group 1  
+Row 3: YC0008, Cold Plate, 1.2*1250*1877, Sheet, 10, ¥170.00, ¥1,700.00, December 1, 2012, No-20120001, Group 1  
+Row 4: YC0011, Cold Plate, 1.2*1250*1880, Sheet, 10, ¥200.00, ¥2,000.00, December 1, 2012, No-20120001, Group 1  
+Row 5: YC0003, Cold Steel, 1.2*1250*1872, Sheet, 15, ¥120.00, ¥1,800.00, December 14, 2012, No-20120003, Company A",9,¥210.00,"¥1,890.00","December 14, 2012",No-20120003,A Company
+YC0012,Cold rolled steel plate,1.2*1250*1881,"Sheet: Sheet43  
+Column headers:  
+Row 1: Material Code, Name, Specification, Unit, Quantity, Unit Price, Amount, Entry Date, Document No., Supplier  
+Row 2: YC0001, Cold Plate, 1.2*1250*1870, Sheet, 10, ¥100.00, ¥1,000.00, December 1, 2012, No-20120001, Group 1  
+Row 3: YC0008, Cold Plate, 1.2*1250*1877, Sheet, 10, ¥170.00, ¥1,700.00, December 1, 2012, No-20120001, Group 1  
+Row 4: YC0011, Cold Plate, 1.2*1250*1880, Sheet, 10, ¥200.00, ¥2,000.00, December 1, 2012, No-20120001, Group 1  
+Row 5: YC0003, Cold Steel, 1.2*1250*1872, Sheet, 15, ¥120.00, ¥1,800.00, December 14, 2012, No-20120003, Company A",8,¥210.00,"¥1,680.00","December 14, 2012",Na-20120003,A Company
+YC0008,Cold rolled steel plate,1.2*1250*1877,"Sheet: Sheet43  
+Column headers:  
+Row 1: Material Code, Name, Specification, Unit, Quantity, Unit Price, Amount, Entry Date, Document No., Supplier  
+Row 2: YC0001, Cold Plate, 1.2*1250*1870, Sheet, 10, ¥100.00, ¥1,000.00, December 1, 2012, No-20120001, Group 1  
+Row 3: YC0008, Cold Plate, 1.2*1250*1877, Sheet, 10, ¥170.00, ¥1,700.00, December 1, 2012, No-20120001, Group 1  
+Row 4: YC0011, Cold Plate, 1.2*1250*1880, Sheet, 10, ¥200.00, ¥2,000.00, December 1, 2012, No-20120001, Group 1  
+Row 5: YC0003, Cold Steel, 1.2*1250*1872, Sheet, 15, ¥120.00, ¥1,800.00, December 14, 2012, No-20120003, Company A",78,¥170.00,"¥13,260.00","December 14, 2012",No-20120003,A Company
+YC0006,Cold rolled steel plate,1.2*1250*1875,"Sheet: Sheet43  
+Column headers:  
+Row 1: Material Code, Name, Specification, Unit, Quantity, Unit Price, Amount, Entry Date, Document No., Supplier  
+Row 2: YC0001, Cold Plate, 1.2*1250*1870, Sheet, 10, ¥100.00, ¥1,000.00, December 1, 2012, No-20120001, Group 1  
+Row 3: YC0008, Cold Plate, 1.2*1250*1877, Sheet, 10, ¥170.00, ¥1,700.00, December 1, 2012, No-20120001, Group 1  
+Row 4: YC0011, Cold Plate, 1.2*1250*1880, Sheet, 10, ¥200.00, ¥2,000.00, December 1, 2012, No-20120001, Group 1  
+Row 5: YC0003, Cold Steel, 1.2*1250*1872, Sheet, 15, ¥120.00, ¥1,800.00, December 14, 2012, No-20120003, Company A",54,¥150.00,¥8.100.00,"December 14, 2012",No-20120003,A Company
+YC0006,Cold rolled steel plate,1.2*1250*1875,"Sheet: Sheet43  
+Column headers:  
+Row 1: Material Code, Name, Specification, Unit, Quantity, Unit Price, Amount, Entry Date, Document No., Supplier  
+Row 2: YC0001, Cold Plate, 1.2*1250*1870, Sheet, 10, ¥100.00, ¥1,000.00, December 1, 2012, No-20120001, Group 1  
+Row 3: YC0008, Cold Plate, 1.2*1250*1877, Sheet, 10, ¥170.00, ¥1,700.00, December 1, 2012, No-20120001, Group 1  
+Row 4: YC0011, Cold Plate, 1.2*1250*1880, Sheet, 10, ¥200.00, ¥2,000.00, December 1, 2012, No-20120001, Group 1  
+Row 5: YC0003, Cold Steel, 1.2*1250*1872, Sheet, 15, ¥120.00, ¥1,800.00, December 14, 2012, No-20120003, Company A",15,¥150.00,"¥2,250.00","December 14, 2012",No-20120003,A Company
+YC⁰006,Cold rolled steel plate,1.2*1250*1875,"Sheet: Sheet43  
+Column headers:  
+Row 1: Material Code, Name, Specification, Unit, Quantity, Unit Price, Amount, Entry Date, Document No., Supplier  
+Row 2: YC0001, Cold Plate, 1.2*1250*1870, Sheet, 10, ¥100.00, ¥1,000.00, December 1, 2012, No-20120001, Group 1  
+Row 3: YC0008, Cold Plate, 1.2*1250*1877, Sheet, 10, ¥170.00, ¥1,700.00, December 1, 2012, No-20120001, Group 1  
+Row 4: YC0011, Cold Plate, 1.2*1250*1880, Sheet, 10, ¥200.00, ¥2,000.00, December 1, 2012, No-20120001, Group 1  
+Row 5: YC0003, Cold Steel, 1.2*1250*1872, Sheet, 15, ¥120.00, ¥1,800.00, December 14, 2012, No-20120003, Company A",15,¥150.00,¥2.250.00,"December 14, 2012",No-20120003,A Company
+YC0004,Cold rolled steel plate,1.2*1250*1873,"Sheet: Sheet43  
+Column headers:  
+Row 1: Material Code, Name, Specification, Unit, Quantity, Unit Price, Amount, Entry Date, Document No., Supplier  
+Row 2: YC0001, Cold Plate, 1.2*1250*1870, Sheet, 10, ¥100.00, ¥1,000.00, December 1, 2012, No-20120001, Group 1  
+Row 3: YC0008, Cold Plate, 1.2*1250*1877, Sheet, 10, ¥170.00, ¥1,700.00, December 1, 2012, No-20120001, Group 1  
+Row 4: YC0011, Cold Plate, 1.2*1250*1880, Sheet, 10, ¥200.00, ¥2,000.00, December 1, 2012, No-20120001, Group 1  
+Row 5: YC0003, Cold Steel, 1.2*1250*1872, Sheet, 15, ¥120.00, ¥1,800.00, December 14, 2012, No-20120003, Company A",20,¥130.00,¥2.600.0,"December 21, 2012",No-20120002,C Company
+YC0004,Cold rolled steel plate,1.2*1250*1873,"Sheet: Sheet43  
+Column headers:  
+Row 1: Material Code, Name, Specification, Unit, Quantity, Unit Price, Amount, Entry Date, Document No., Supplier  
+Row 2: YC0001, Cold Plate, 1.2*1250*1870, Sheet, 10, ¥100.00, ¥1,000.00, December 1, 2012, No-20120001, Group 1  
+Row 3: YC0008, Cold Plate, 1.2*1250*1877, Sheet, 10, ¥170.00, ¥1,700.00, December 1, 2012, No-20120001, Group 1  
+Row 4: YC0011, Cold Plate, 1.2*1250*1880, Sheet, 10, ¥200.00, ¥2,000.00, December 1, 2012, No-20120001, Group 1  
+Row 5: YC0003, Cold Steel, 1.2*1250*1872, Sheet, 15, ¥120.00, ¥1,800.00, December 14, 2012, No-20120003, Company A",5,¥130.00,¥650.00,"December 21, 2012",Na-20120002,C Company

@@ -1,0 +1,6 @@
+StudentInformationandAcademicRecordsSheet-StudentID,Name,Class,MathScore,EnglishScore,ScienceScore,HistoryScore,PhysicalEducationScore,ArtScore,ClubActivities,AttendanceRate
+1,Zhang San,"Class 2, Grade 3",90,85,92,88,95,93,Basketball Club,98%
+2,Li Si,"Class 2, Grade 3",85,82,88,90,90,88,Calligraphy Club,95%
+3,Wang Wu,"Class 2, Grade 3",92,90,94,93,88,90,Science Club,99%
+4,Zhao Liu,"Class 2, Grade 3",88,87,89,85,93,85,Music Club,97%
+5,Zhou Qi,"Class 2, Grade 3",80,82,85,80,85,82,Art Club,96%

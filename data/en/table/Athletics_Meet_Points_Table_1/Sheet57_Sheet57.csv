@@ -1,0 +1,11 @@
+Student ID,Student Name,1st Unit,Rank,"2单元 translates to ""Unit 2"" in English.",Rank.1,"4单元 translates to ""Unit 4"" in English.",Rank.2,Midterm Exam,Rank.3,"6单元 translates to ""6th Unit"" in English.",Rank.4,"8单元 translates to ""Unit 8"" in English.",Rank.5,Final Exam,Rank.6,Average Score,Rank.7,Evaluation
+5123001,Rice husk 1,98,1,97,1,98,1,92,2,99,1,89,4,95,1,95.4,1,Qualified
+5123002,Rice husk 2,96,2,88,4,80,8,79,9,85,8,96,1,89,4,85.5,7,Qualified
+5123003,Rice husk 3,75,8,72,9,65,9,85,6,91,6,89,4,93,3,81.6,9,Qualified
+5123004,Rice husk 4,67,9,85,5,83,7,86,5,95,2,95,2,63,9,85.3,8,Qualified
+5123005,Rice husk 5,60,10,59,10,48,10,58,10,45,10,61,10,58,10,57.2,10,Unqualified
+5123006,Rice husk 6,78,7,85,5,90,4,87,4,93,4,79,9,95,1,88.3,4,Qualified
+5123007,Rice husk 7,94,4,96,2,96,2,93,1,92,5,81,8,89,4,92.2,2,Qualified
+5123008,Rice husk 8,96,2,89,3,94,3,92,2,85,8,86,6,85,8,90.8,3,Qualified
+5123009,Rice husk 9,85,6,85,5,88,5,84,7,91,6,91,3,86,7,87.4,5,Qualified
+5123010,Rice husk 10,87,5,82,8,85,6,80,8,94,3,84,7,87,6,86.3,6,Qualified

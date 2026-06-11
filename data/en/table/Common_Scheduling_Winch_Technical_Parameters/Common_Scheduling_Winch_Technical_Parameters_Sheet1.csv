@@ -1,0 +1,17 @@
+CommonlyUsedHoistTechnicalParameterTable-ModelTypeParameters,CommonlyUsedHoistTechnicalParameterTable-ModelTypeParameters.1,CommonlyUsedHoistTechnicalParameterTable-JD-11.4,CommonlyUsedHoistTechnicalParameterTable-JD-25,CommonlyUsedHoistTechnicalParameterTable-JD-40(A),CommonlyUsedHoistTechnicalParameterTable-JD-55(A),CommonlyUsedHoistTechnicalParameterTable-JD-55(B),CommonlyUsedHoistTechnicalParameterTable-JD-75,CommonlyUsedHoistTechnicalParameterTable-JD-90
+Traction Force (kN),Traction Force (kN),10,16,20,44,43,55,71
+Speed of rope (m/s),minimum,0,1,1,1,1,1,1
+Speed of rope (m/s),Maximum,1,1,1,1,2,2,1
+Speed of rope (m/s),Average,1,1,1,1,1,1,1
+Capacity of rope,Rope diameter (mm),13,15,19,22,22,22,26
+Capacity of rope,Rope length (m),400,400,500,650,850,850,850
+Drum dimensions (length × width × height) (mm),Drum dimensions (length × width × height) (mm),Φ224×304,Φ310×400,Φ620×580,Φ580×600,Φ580×600,Φ580×600,Φ710×800
+Total Reduction Ratio,Total Reduction Ratio,41,33,42,2500×1965×1425(2092)                       Note: 2092 includes the depth indicator,2500×1965×1425(2092)                       Note: 2092 includes the depth indicator,2500×1965×1425(2092)                       Note: 2092 includes the depth indicator,
+External Dimensions (Length × Width × Height) (mm),External Dimensions (Length × Width × Height) (mm),1120×766×727,1435×1217×1255,1830×1794×1390,2500×1965×1425(2092)                       Note: 2092 includes the depth indicator,2500×1965×1425(2092)                       Note: 2092 includes the depth indicator,2500×1965×1425(2092)                       Note: 2092 includes the depth indicator,2655×2523×1765
+Hoist Weight (Including Motor),Hoist Weight (Including Motor),542,1370,2450,3650,3650,3800,5547
+Motor Specifications,Type,YBJ-11.4,JBJQ-25,YBJ-40,YB280M-6,YB280M-6,YB2805-4,YB315M-6
+Motor Specifications,Power (KW),11,25,40,55,55,75,90
+Motor Specifications,Speed (r/min),1460,1465,1470,970,970,1450,989
+Motor Specifications,Voltage (V),380/660,380/660,380/660,380/660,660/1140,660/1140,660/1140
+Electrical Equipment,Explosion-proof Magnetic Starter,QBZ-80N,QBZ-80N,QBZ-80N,QBZ-120N,QBZ-120N,QBZ-160N,QBZ-200N
+Electrical Equipment,Explosion-proof control button,LA81-3,LA81-3,LA81-3,LA81-3A,LA81-3A,LA81-3A,LA81-3A

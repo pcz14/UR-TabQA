@@ -1,0 +1,13 @@
+CashDailyAccountStatement-Todayis:-SerialNumber-SerialNumber,CashDailyAccountStatement-Todayis:-IncomeDetails-ProjectName,CashDailyAccountStatement-IncomeDetails-ContentDetails,CashDailyAccountStatement-IncomeDetails-AmountInvolved,CashDailyAccountStatement-IncomeDetails-Wayofdeposit,CashDailyAccountStatement-IncomeTotal-IncomeDetails-Notes,CashDailyAccountStatement-ExpenditureDetails-ProjectName,CashDailyAccountStatement-ExpenditureDetails-ContentDetails,CashDailyAccountStatement-ExpenditureTotal-ExpenditureDetails-AmountInvolved,CashDailyAccountStatement-ExpenditureDetails-PaymentMethod,CashDailyAccountStatement-ExpenditureDetails-Numberofinvoices,CashDailyAccountStatement-RemainingTotal-ExpenditureDetails-Notes,CashDailyAccountStatement-RemainingAmount-RemainingAmount
+1,Income Item 1,Income Item,800,WeChat,///,Expenditure Item 1,Expenditure Item,600,Bank card,1,///,
+2,Income Item 2,Income Item,801,WeChat,///,Expenditure Item 2,Expenditure Item,601,Bank card,2,///,
+3,Income Item 3,Income Item,802,WeChat,///,Expenditure Item 3,Expenditure Item,602,Bank card,3,///,
+4,Income Item 4,Income Item,803,WeChat,///,Expenditure Item 4,Expenditure Item,603,Bank card,4,///,
+5,Income Item 5,Income Item,804,WeChat,///,Expenditure Item 5,Expenditure Item,604,Bank card,5,///,
+6,Income Item 6,Income Item,805,WeChat,///,Expenditure Item 6,Expenditure Item,605,Bank card,6,///,
+7,Income Item 7,Income Item,806,WeChat,///,Expenditure Item 7,Expenditure Item,606,Bank card,7,///,
+8,Income Item 8,Income Item,807,WeChat,///,Expenditure Item 8,Expenditure Item,607,Bank card,8,///,
+9,Income Item 9,Income Item,808,WeChat,///,Expenditure Item 9,Expenditure Item,608,Bank card,9,///,
+10,Income Item 10,Income Item,809,WeChat,///,Expenditure Item 10,Expenditure Item,609,Bank card,10,///,
+11,Income Item 11,Income Item,810,WeChat,///,Expenditure Item 11,Expenditure Item,610,Bank card,11,///,
+12,Income Item 12,Income Item,811,WeChat,///,Expenditure Item 12,Expenditure Item,611,Bank card,12,///,

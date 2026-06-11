@@ -1,0 +1,19 @@
+Used for,Payment Period,Material Code,Material Account,Supplier,Unit Value,Quantity Belonging,Unit Price,Amount,Transaction Number,A Order
+December 2020,2030/12/1,0,Science,Supplier 1,Piece,200,1000,200000,1001.0,RK001
+December 2020,2020/12/2,-2,Material 2,Supplier 2,Piece,200,2000,400000,2001.0,RE002
+December 2020,2020/12/3,-3,Material 3,Supplier 3,Piece,200,3000,600000,3001.0,RE003
+December 2020,2030/12/4,-4,Material 1,Supplier 4,Piece,200,1200,240000,4001.0,RK004
+December 2020,2020/12/5,-5,Material 2,Supplier 5,Piece,200,2200,440000,5001.0,5
+December 2020,2020/12/6,M-006,Material,Supplier 6,Piece,200,3200,640000,0.0,RE006
+December 2020,2020/12/7,-1,Material 1,Supplier 1,Piece,200,1000,200000,1002.0,RK007
+December 2020,2020/12/8,-2,Material 2,Supplier 2,Piece,200,2000,400000,2002.0,A  0
+December 2020,2020/12/9,M-003,Material 3,Supplier 3,Piece,200,3000,600000,3002.0,RE009
+December 2020,2020/12/10,-4,Material 1,Supplier 4,Piece,200,1200,240000,4002.0,RK010
+December 2220,2020/12/11,Oxygen-006,Material 2,Supplier 5,Piece,200,2200,440000,5002.0,N8011
+December 2020,2020/12/12,WL-006,Material 3,Supplier 6,Piece,200,3200,840000,0.0,RE012
+July 2020,2020/12/13,-1,Material 1,Supplier 1,Piece,200,1000,200000,1003.0,RK013
+December 2020,2020/12/14,-2,Material 2,Supplier 2,Piece,200,2000,400000,2003.0,RK014
+December 2020,2020/12/15,M-003,Material 3,Supplier 3,Piece,200,3000,600000,3003.0,RE015
+December 2020,2020/12/16,-4,Material 1,Supplier 4,Piece,200,1200,240000,4003.0,RK016
+December 2020,2220/12/17,-5,Material 2,Supplier 5,Piece,200,2200,440000,5003.0,R017
+December 2020,2020/12/18,ML-006,Material 3,Supplier 6,Piece,200,3200,640000,0.0,RE01B

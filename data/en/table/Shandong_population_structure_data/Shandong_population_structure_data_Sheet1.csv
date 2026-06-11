@@ -1,0 +1,67 @@
+"AgeComposition,DependencyRatio,andSexRatioofPopulationinShandongProvince-AgeCompositionandDependencyRatioofPopulation-Unit:%-Year-Year-Year-Year","AgeComposition,DependencyRatio,andSexRatioofPopulationinShandongProvince-AgeCompositionandDependencyRatioofPopulation-TotalPopulationSexRatio(SexRatiowithFemale=100)-TotalPopulationSexRatio(SexRatiowithFemale=100)-TotalPopulationSexRatio(SexRatiowithFemale=100)-TotalPopulationSexRatio(SexRatiowithFemale=100)","AgeComposition,DependencyRatio,andSexRatioofPopulationinShandongProvince-AgeCompositionandDependencyRatioofPopulation-TheProportionofTotalPopulationByAge-TheProportionofTotalPopulationByAge-TheProportionofTotalPopulationByAge-0-14YearsOldAged0-14","AgeComposition,DependencyRatio,andSexRatioofPopulationinShandongProvince-AgeCompositionandDependencyRatioofPopulation-TheProportionofTotalPopulationByAge-TheProportionofTotalPopulationByAge-TheProportionofTotalPopulationByAge-15-64Aged15-64","AgeComposition,DependencyRatio,andSexRatioofPopulationinShandongProvince-AgeCompositionandDependencyRatioofPopulation-TheProportionofTotalPopulationByAge-TheProportionofTotalPopulationByAge-TheProportionofTotalPopulationByAge-65andOver","AgeComposition,DependencyRatio,andSexRatioofPopulationinShandongProvince-AgeCompositionandDependencyRatioofPopulation-GrossDependencyRatio-GrossDependencyRatio-GrossDependencyRatio-GrossDependencyRatio","AgeComposition,DependencyRatio,andSexRatioofPopulationinShandongProvince-AgeCompositionandDependencyRatioofPopulation-ChildrenDependencyRatio-ChildrenDependencyRatio","AgeComposition,DependencyRatio,andSexRatioofPopulationinShandongProvince-AgeCompositionandDependencyRatioofPopulation-(%)-OldDependencyRatio-OldDependencyRatio"
+Year,"Total Population Sex Ratio  
+(Sex Ratio with Female=100)","0-14 Years Old  
+Aged  
+0-14","15-64 Aged  
+15-64",65 and Over,"Gross
+Dependency 
+Ratio","Children  
+Dependency  
+Ratio","Old
+Dependency 
+Ratio"
+Year,"Total Population Sex Ratio  
+(Sex Ratio with Female=100)","0-14 Years Old  
+Aged  
+0-14","15-64 Aged  
+15-64",65 and Over,"Gross
+Dependency 
+Ratio","Children  
+Dependency  
+Ratio","Old
+Dependency 
+Ratio"
+Year,"Total Population Sex Ratio  
+(Sex Ratio with Female=100)","0-14 Years Old  
+Aged  
+0-14","15-64 Aged  
+15-64",65 and Over,"Gross
+Dependency 
+Ratio","Children  
+Dependency  
+Ratio","Old
+Dependency 
+Ratio"
+,,,,,,,
+1982,102.9,31.0,63.4,5.6,57.7,48.9,8.8
+1990,103.5,26.6,67.2,6.2,48.8,39.6,9.2
+1995,103.7,24.6,68.0,7.4,47.1,36.2,10.9
+2000,102.5,20.8,71.1,8.1,40.6,29.3,11.4
+2001,102.7,20.4,71.4,8.2,40.1,28.6,11.5
+2002,102.4,18.8,72.7,8.5,37.6,25.9,11.7
+2003,100.4,18.4,72.6,9.1,37.8,25.3,12.5
+2004,100.7,17.1,73.7,9.2,35.8,23.2,12.5
+2005,102.0,15.9,74.1,9.9,34.9,21.5,13.4
+2006,100.8,15.3,74.7,10.0,33.9,20.5,13.4
+2007,101.4,15.0,74.8,10.2,33.7,20.1,13.6
+2008,100.2,15.6,74.1,10.3,34.9,21.0,13.8
+2009,102.3,15.7,73.9,10.4,35.4,21.2,14.1
+2010,102.3,15.7,74.4,9.9,34.4,21.1,13.3
+2011,102.0,15.7,74.3,10.0,34.6,21.1,13.5
+2012,101.4,16.1,73.5,10.4,36.0,21.8,14.2
+2013,101.2,16.1,72.9,11.0,37.1,22.1,15.0
+2014,101.1,16.4,72.0,11.6,38.9,22.8,16.1
+2015,102.1,16.6,71.2,12.2,40.4,23.3,17.1
+2016,102.8,16.4,70.4,13.2,42.0,23.3,18.8
+2017,102.7,17.2,68.8,14.0,45.3,25.0,20.3
+2018,100.8,18.1,66.9,15.0,49.5,27.0,22.5
+2019,99.2,18.0,66.2,15.8,51.1,27.2,23.9
+2020,102.7,18.8,66.1,15.1,51.3,28.4,22.9
+2021,103.1,18.4,65.7,15.9,52.3,28.1,24.2
+2022,102.9,17.9,65.4,16.7,52.9,27.4,25.5
+2023,102.2,17.3,65.3,17.4,53.1,26.5,26.6
+,,,,,,,
+,,,,,,,
+"Note: The data for 1982, 1990, 2000, 2010, and 2020 are from population censuses; the data for 2001–2004 are from sample survey samples; and the data for other years are estimated from sample surveys.",,,,,,,
+a)Data of 1982、1990、2000、2010 and 2020 are taken from the national population census.Data of 2001-2004 are taken from,a)Data of 1982、1990、2000、2010 and 2020 are taken from the national population census.Data of 2001-2004 are taken from ,a)Data of 1982、1990、2000、2010 and 2020 are taken from the national population census.Data of 2001-2004 are taken from ,a)Data of 1982、1990、2000、2010 and 2020 are taken from the national population census.Data of 2001-2004 are taken from ,a)Data of 1982、1990、2000、2010 and 2020 are taken from the national population census.Data of 2001-2004 are taken from ,a)Data of 1982、1990、2000、2010 and 2020 are taken from the national population census.Data of 2001-2004 are taken from ,a)Data of 1982、1990、2000、2010 and 2020 are taken from the national population census.Data of 2001-2004 are taken from ,a)Data of 1982、1990、2000、2010 and 2020 are taken from the national population census.Data of 2001-2004 are taken from 
+Population Sample Survey. Others are estimated on population sample survey.,,,,,,,

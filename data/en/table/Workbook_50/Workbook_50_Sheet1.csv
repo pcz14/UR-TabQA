@@ -1,0 +1,97 @@
+School,College,MajorName,09AdmissionRatio-Numberofapplicants,AdmittedNumber,AdmissionRatio
+Xinjiang Agricultural University,College of Agriculture,Zoology,35,11,0.314285714
+Xinjiang Agricultural University,College of Agriculture,Biochemistry and Molecular Biology,31,11,0.35483871
+Xinjiang Agricultural University,College of Agriculture,Crop Cultivation and Farming Science,28,10,0.357142857
+Xinjiang Agricultural University,College of Agriculture,Crop Genetics and Breeding,34,18,0.529411765
+Xinjiang Agricultural University,College of Agriculture,Plant Pathology,44,14,0.318181818
+Xinjiang Agricultural University,College of Water Conservancy and Civil Engineering,Hydrology and Water Resources,32,10,0.3125
+Xinjiang Agricultural University,College of Water Conservancy and Civil Engineering,Hydraulics and River Dynamics,16,9,0.5625
+Xinjiang Agricultural University,College of Water Conservancy and Civil Engineering,Water Conservancy Structure Engineering,18,7,0.388888889
+Xinjiang Agricultural University,College of Water Conservancy and Civil Engineering,Water Conservancy and Hydropower Engineering,43,18,0.418604651
+Xinjiang Agricultural University,College of Water Conservancy and Civil Engineering,Agricultural Water and Soil Engineering,18,5,0.277777778
+Xinjiang Agricultural University,Mechanical and Transportation College,Mechanical Design and Theory,16,4,0.25
+Xinjiang Agricultural University,Mechanical and Transportation College,Transportation Vehicle Application Engineering,40,14,0.35
+Xinjiang Agricultural University,Mechanical and Transportation College,Agricultural Mechanization Engineering,45,16,0.355555556
+Xinjiang Agricultural University,College of Resources and Environment,Ecology,32,13,0.40625
+Xinjiang Agricultural University,College of Resources and Environment,Environmental Science,25,9,0.36
+Xinjiang Agricultural University,College of Resources and Environment,Soil Science,33,13,0.393939394
+Xinjiang Agricultural University,Food Science College,Food Science,51,21,0.411764706
+Xinjiang Agricultural University,Horticultural College,Horticultural Science,55,24,0.436363636
+Xinjiang Agricultural University,Horticultural College,Vegetable Science,38,15,0.394736842
+Xinjiang Agricultural University,College of Animal Science,Zoology,0,0,0.0
+Xinjiang Agricultural University,College of Animal Science,"Animal Genetics, Breeding, and Reproduction",38,14,0.368421053
+Xinjiang Agricultural University,College of Animal Science,Animal Nutrition and Feed Science,40,26,0.65
+Xinjiang Agricultural University,Grassland Engineering College,Grassland Science,33,18,0.545454545
+Xinjiang Agricultural University,College of Animal Medicine,Basic Veterinary Medicine,36,14,0.388888889
+Xinjiang Agricultural University,College of Animal Medicine,Preventive Veterinary Medicine,45,24,0.533333333
+Xinjiang Agricultural University,College of Animal Medicine,Clinical Veterinary Medicine,17,9,0.529411765
+Xinjiang Agricultural University,College of Forestry,Botany,28,13,0.464285714
+Xinjiang Agricultural University,College of Forestry,Ecology,0,0,0.0
+Xinjiang Agricultural University,College of Forestry,Forest Tree Genetics and Breeding,8,4,0.5
+Xinjiang Agricultural University,College of Forestry,Forest Cultivation,12,5,0.416666667
+Xinjiang Agricultural University,College of Forestry,Forest Management Science,28,9,0.321428571
+Xinjiang Agricultural University,College of Forestry,Landscape Plants and Ornamental Horticulture,22,8,0.363636364
+Xinjiang Agricultural University,School of Economics and Management,Industrial Economics,0,0,0.0
+Xinjiang Agricultural University,School of Economics and Management,Agricultural Economic Management,76,30,0.394736842
+Xinjiang Agricultural University,School of Economics and Management,Forest Resource Management,0,0,0.0
+Xinjiang Agricultural University,School of Economics and Management,Land Resource Management,34,16,0.470588235
+Xinjiang Normal University,School of Law and Economics,Marxist Philosophy,0,0,0.0
+Xinjiang Normal University,School of Law and Economics,Ethics,0,0,0.0
+Xinjiang Normal University,School of Law and Economics,Religion,48,25,0.520833333
+Xinjiang Normal University,School of Law and Economics,Regional Economics,40,15,0.375
+Xinjiang Normal University,School of Law and Economics,Civil and Commercial Law,0,0,0.0
+Xinjiang Normal University,School of Law and Economics,History of the Communist Party of China,15,12,0.8
+Xinjiang Normal University,School of Law and Economics,Marxist National Theory and Policy,0,0,0.0
+Xinjiang Normal University,School of Law and Economics,Chinese Ethnic Minority Economy,0,0,0.0
+Xinjiang Normal University,School of Law and Economics,Marxism Basic Principles,28,30,1.071428571
+Xinjiang Normal University,School of Law and Economics,Marxism Chinese Characteristics Study,0,0,0.0
+Xinjiang Normal University,School of Law and Economics,Ideological and Political Education,17,20,1.176470588
+Xinjiang Normal University,School of Law and Economics,Curriculum and Instruction Theory,19,6,0.315789474
+Xinjiang Normal University,College of Education and Science,Educational Principles,32,10,0.3125
+Xinjiang Normal University,College of Education and Science,Curriculum and Instruction Theory,16,6,0.375
+Xinjiang Normal University,College of Education and Science,Development and Educational Psychology,0,0,0.0
+Xinjiang Normal University,College of Physical Education,Sports Human Science,0,0,0.0
+Xinjiang Normal University,College of Physical Education,Sports Education and Training Science,26,12,0.461538462
+Xinjiang Normal University,College of Physical Education,Ethnic Traditional Sports Science,0,0,0.0
+Xinjiang Normal University,College of Physical Education,Sports Humanities and Sociology,33,10,0.303030303
+Xinjiang Normal University,College of Humanities,Ethnology,39,15,0.384615385
+Xinjiang Normal University,College of Humanities,Chinese Language and Literature,31,10,0.322580645
+Xinjiang Normal University,College of Humanities,Chinese Classical Literature,0,0,0.0
+Xinjiang Normal University,College of Humanities,Chinese Ancient Literature,38,15,0.394736842
+Xinjiang Normal University,College of Humanities,Chinese Modern and Contemporary Literature,0,0,0.0
+Xinjiang Normal University,College of Humanities,Chinese Minority Languages and Literature Major (Uyghur),95,36,0.378947368
+Xinjiang Normal University,College of Humanities,Chinese Ethnic Minority Languages and Literature Major (Mongolian),0,0,0.0
+Xinjiang Normal University,College of Humanities,World History,0,0,0.0
+Xinjiang Normal University,Foreign Languages College,Foreign Linguistics and Applied Linguistics,31,9,0.290322581
+Xinjiang Normal University,Foreign Languages College,Curriculum and Instruction Theory,11,3,0.272727273
+Xinjiang Normal University,School of Music,Musicology,76,20,0.263157895
+Xinjiang Normal University,School of Fine Arts,Fine Arts,91,27,0.296703297
+Xinjiang Normal University,"School of Mathematics, Physics and Information Technology",Basic Mathematics,37,12,0.324324324
+Xinjiang Normal University,"School of Mathematics, Physics and Information Technology",Applied Mathematics,0,0,0.0
+Xinjiang Normal University,"School of Mathematics, Physics and Information Technology",Theoretical Physics,0,0,0.0
+Xinjiang Normal University,"School of Mathematics, Physics and Information Technology",Curriculum and Instruction Theory,55,20,0.363636364
+Xinjiang Normal University,College of Geography Science and Tourism,Physical Geography,82,30,0.365853659
+Xinjiang Normal University,College of Geography Science and Tourism,Cultural Geography,64,23,0.359375
+Xinjiang Normal University,College of Geography Science and Tourism,Cartography and Geographic Information System,28,10,0.357142857
+Xinjiang Normal University,College of Geography Science and Tourism,Population Resources and Environmental Economics,0,0,0.0
+Xinjiang Normal University,College of Geography Science and Tourism,Tourism Management,0,0,0.0
+Xinjiang Normal University,College of Geography Science and Tourism,Course Teaching Theory,0,0,0.0
+Xinjiang Normal University,College of Life Sciences and Chemistry,Botany,15,8,0.533333333
+Xinjiang Normal University,College of Life Sciences and Chemistry,Course Teaching Theory,45,13,0.288888889
+Xinjiang Normal University,School of Chinese Language Education,Linguistics and Applied Linguistics,0,0,0.0
+Xinjiang Normal University,School of Chinese Language Education,Curriculum and Instruction Theory,22,6,0.272727273
+Xinjiang University of Finance and Economics,Economics Department,Political Economy,28,10,0.357142857
+Xinjiang University of Finance and Economics,Economics Department,Regional Economics,33,15,0.454545455
+Xinjiang University of Finance and Economics,Economics Department,Industrial Economics,35,13,0.371428571
+Xinjiang University of Finance and Economics,Economics Department,International Trade,29,12,0.413793103
+Xinjiang University of Finance and Economics,Economics Department,Chinese Ethnic Minority Economy,0,0,0.0
+Xinjiang University of Finance and Economics,Finance Department,Public Finance,42,15,0.357142857
+Xinjiang University of Finance and Economics,Finance Department,Labor Economics,0,0,0.0
+Xinjiang University of Finance and Economics,Finance Department,Financial Studies,137,45,0.328467153
+Xinjiang University of Finance and Economics,Statistics Department,Statistics,24,10,0.416666667
+Xinjiang University of Finance and Economics,Statistics Department,Quantitative Economics,22,10,0.454545455
+Xinjiang University of Finance and Economics,Statistics Department,National Economics,0,0,0.0
+Xinjiang University of Finance and Economics,Law Department,Economic Law,51,20,0.392156863
+Xinjiang University of Finance and Economics,Accounting Department,Accounting,107,45,0.420560748
+Xinjiang University of Finance and Economics,Business Administration Department,Enterprise Management,76,30,0.394736842
+Xinjiang University of Finance and Economics,Graduate School,MBA (Master of Business Administration),110,40,0.363636364

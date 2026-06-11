@@ -1,0 +1,12 @@
+Material Code,Name,Specification,Unit,Quantity,Unit Price,Amount,Entry Date,Order Number,Supplier
+YC0012,Cold rolled steel plate,1.2*1250*1881,"Sheet: Sheet43
+Column headers:
+Row 1: Material Code, Name, Specification, Unit, Quantity, Unit Price, Amount, Entry Date, Number, Supplier
+Row 2: YC0001, Cold Plate, 1.2*1250*1870, Sheet, 10, ¥100.00, ¥1,000.00, December 1, 2012, No-20120001, Group 1
+Row 3: YC0008, Cold Plate, 1.2*1250*1877, Sheet, 10, ¥170.00, ¥1,700.00, December 1, 2012, No-20120001, Group 1
+Row 4: YC0011, Cold Plate, 1.2*1250*1880, Sheet, 10, ¥200.00, ¥2,000.00, December 1, 2012, No-20120001, Group 1
+Row 5: YC0003, Cold Pole, 1.2*1250*1872, Sheet, 15, ¥120.00, ¥1,800.00, December 14, 2012, No-20120003, Company A
+
+
+Text to translate:
+Sheet",9,¥210.00,"¥1,890.00","December 14, 2012",No-20120003,A Company

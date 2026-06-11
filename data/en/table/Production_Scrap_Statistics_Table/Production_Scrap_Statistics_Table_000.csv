@@ -1,0 +1,7 @@
+ProductionAreaThisMonth(SquareMeters)-Scrapthismonth(squaremeters),ChongMing(成型)-2400.23-7.24,Yikecheng(Lamination)-2390.63-7.01,Yikecheng(TinPlating)-22328.18-16.8,Zhoute(Lamination)-1268.99-1.33,Yongsheng(OSP)-1449.25-0.31,Yongsheng(GoldPlating)-979.29-1.16,Rundepth(PPTH)-2059.93-6.23,Zhonghe(Forming)-239.78-0.05,Omirei(TinPlating)-5095.0-11.67,Huanen(Inkjet)-1472.59-2.08,Interstellar(TinPlating)-788.04-0.06,Jiantao(Laminate)-23.29,ChemicalSolution(Harford)-23890.7-21.32,Shengyi(Material)-1.38
+"Allowed Scrap Area
+(0.05%)",,,,,,,,,,,,,,
+Actual Scrap (Square Meters),,,,,,,,,,,,,,
+Scrap Unit Price,500.0,400.0,500.0,400.0,500.0,600.0,300.0,500.0,500,500,500.0,300.0,300.0,300.0
+Total Amount,,,,,,,,,,,,,,
+Actual Deduction,,1526.67,1819.96,,0.0,,1060.01,0.0,"No agreement signed, deduct 1561.25",Do not deduct this one for now.,0.0,,,0.0

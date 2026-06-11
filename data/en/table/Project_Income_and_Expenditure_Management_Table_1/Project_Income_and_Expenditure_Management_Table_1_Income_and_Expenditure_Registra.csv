@@ -1,0 +1,19 @@
+ProjectIncomeandExpenditureManagementTable-ProjectIncomeandExpenditureManagementTable,ProjectIncomeandExpenditureManagementTable-ProjectIncomeandExpenditureManagementTable.1,ProjectIncomeandExpenditureManagementTable-ProjectIncomeandExpenditureManagementTable.2,ProjectIncomeandExpenditureManagementTable-ProjectIncomeandExpenditureManagementTable.3,ProjectIncomeandExpenditureManagementTable-ProjectIncomeandExpenditureManagementTable.4,Today'sDate,TotalBeginningBalance,TotalIncome,TotalExpenditure,Totalendingbalance,Unnamed: 10
+Date,Voucher Number,Business Summary,Category,Subject Name,Project or Department,Beginning Balance,Income Amount,Amount Spent,Ending Balance,Person in Charge
+4/7/2022,,Beginning Balance,Beginning Balance,,,50000.0,,,,Zeng Siping
+4/7/2022,,Beginning Balance,Beginning Balance,,,3000.0,,,,Xiao Li
+4/9/2022,,Worker's Salary,Expenditure,Personnel Salary,West Coast Silver Tower,,,400.0,,Xiao Li
+4/10/2022,,Receive project payment from Mr. Wang,Income,Project Payment,Elite Fun Court,,1200.0,,,Gang Tingting
+4/11/2022,,Payment for Construction Costs,Expenditure,Construction Cost,New City Cinema,,,345.0,,Xiao Li
+5/12/2022,,Pay water and electricity bills,Other,Other,Huilongyuan,,,245.0,,Gang Tingting
+5/13/2022,,Rental Income from Forklift,Income,Project Payment,Baoyin Mass,,4500.0,,,Zeng Siping
+5/14/2022,,Payment for Construction Costs,Expenditure,Construction Cost,MUJI,,,300.0,,Glory
+5/15/2022,,Sell remaining materials,Other,Other,Chiwan,,5490.0,,,Glory
+5/16/2022,,Employee Meal Expenses,Expenditure,Construction Cost,Shanhai Yiju,,,240.0,,Gang Tingting
+5/17/2022,,Purchase of fruits,Expenditure,Employee Benefits,Haixiang Ge,,,560.0,,Zeng Siping
+5/18/2022,,Other Income,Income,Other Income,Mountain Language Sea Garden,,500.0,,,Glory
+5/19/2022,,Pay for car rental fees,Expenditure,Car rental expenses,Huilongyuan,,,680.0,,Xiao Li
+5/20/2022,,Other Income,Income,Other Income,Huilongyuan,,6000.0,,,Gang Tingting
+5/21/2022,,Receive project payment,Income,Project Payment,Mountain Language Sea Garden,,6000.0,,,Gang Tingting
+5/22/2022,,Receive project payment,Income,Project Payment,Huilongyuan,,6001.0,,,Xiao Li
+5/23/2022,,Receive project payment,Income,Project Payment,Huilongyuan,,6002.0,,,Glory

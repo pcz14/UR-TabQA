@@ -1,0 +1,17 @@
+"Table1-6Populationbyregion,sex,andmaritalstatus-Region","Table1-6Populationbyregion,sex,andmaritalstatus-Populationaged15andabove","Table1-6Populationbyregion,sex,andmaritalstatus-Populationaged15andabove.1","Table1-6Populationbyregion,sex,andmaritalstatus-Populationaged15andabove.2","Table1-6Populationbyregion,sex,andmaritalstatus-Unmarried","Table1-6Populationbyregion,sex,andmaritalstatus-Unmarried.1","Table1-6Populationbyregion,sex,andmaritalstatus-Unmarried.2","Table1-6Populationbyregion,sex,andmaritalstatus-Firstmarriagewithspouse","Table1-6Populationbyregion,sex,andmaritalstatus-Firstmarriagewithspouse.1","Table1-6Populationbyregion,sex,andmaritalstatus-Firstmarriagewithspouse.2","Table1-6Populationbyregion,sex,andmaritalstatus-Remarriedwithspouse","Table1-6Populationbyregion,sex,andmaritalstatus-Remarriedwithspouse.1","Table1-6Populationbyregion,sex,andmaritalstatus-Remarriedwithspouse.2","Table1-6Populationbyregion,sex,andmaritalstatus-Divorced","Table1-6Populationbyregion,sex,andmaritalstatus-Divorced.1","Table1-6Populationbyregion,sex,andmaritalstatus-Divorced.2","Table1-6Populationbyregion,sex,andmaritalstatus-Widowed","Table1-6Populationbyregion,sex,andmaritalstatus-Unit:Person-Widowed","Table1-6Populationbyregion,sex,andmaritalstatus-Unit:Person-Widowed.1"
+Region,Subtotal,Male,Female,Subtotal,Male,Female,Subtotal,Male,Female,Subtotal,Male,Female,Subtotal,Male,Female,Subtotal,Male,Female
+Hunan Province,511341,257049,254292,102403,61553,40850,359004,176253,182751,11990,5421,6569,4974,3216,1758,32970,10606,22364
+Changsha City,53910,27028,26882,11731,6646,5085,37202,18453,18749,1367,631,736,729,409,320,2881,889,1992
+Zhuzhou City,30489,15348,15141,5919,3552,2367,21656,10636,11020,717,322,395,302,176,126,1895,662,1233
+Xiangtan City,26499,13278,13221,4876,2938,1938,18782,9263,9519,696,310,386,346,220,126,1799,547,1252
+Hengyang City,53360,26720,26640,11205,6775,4430,37175,18125,19050,1018,431,587,352,218,134,3610,1171,2439
+Shaoyang City,54153,26931,27222,12072,7099,4973,37068,18061,19007,1237,533,704,384,256,128,3392,982,2410
+Yueyang City,40211,20454,19757,7932,4710,3222,28869,14337,14532,891,411,480,414,245,169,2105,751,1354
+Changde City,43315,21648,21667,5829,3569,2260,32336,16024,16312,1453,637,816,594,391,203,3103,1027,2076
+Zhangjiajie City,11848,5931,5917,1952,1218,734,8538,4155,4383,378,168,210,106,74,32,874,316,558
+Yiyang City,33433,17028,16405,5967,3585,2382,24286,12154,12132,794,344,450,262,195,67,2124,750,1374
+Chenzhou City,40145,20365,19780,9378,5716,3662,27187,13293,13894,777,372,405,333,217,116,2470,767,1703
+Yongzhou City,36920,18577,18343,8233,5064,3169,24981,12077,12904,626,268,358,292,227,65,2788,941,1847
+Huaihua City,38318,19455,18863,7774,4832,2942,26657,13020,13637,1007,501,506,471,327,144,2409,775,1634
+Loudi City,29338,14571,14767,6109,3705,2404,20380,9900,10480,586,255,331,228,150,78,2035,561,1474
+Xiangxi Tujia and Miao Autonomous Prefecture,19402,9715,9687,3426,2144,1282,13887,6755,7132,443,238,205,161,111,50,1485,467,1018

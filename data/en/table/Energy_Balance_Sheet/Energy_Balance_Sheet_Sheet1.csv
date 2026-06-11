@@ -1,0 +1,33 @@
+"7-9OverallEnergyBalanceSheet-OverallEnergyBalanceSheet-Unit:10,000tonsofstandardcoal-Item",7-9OverallEnergyBalanceSheet-OverallEnergyBalanceSheet-Item,7-9OverallEnergyBalanceSheet-OverallEnergyBalanceSheet-2019,7-9OverallEnergyBalanceSheet-OverallEnergyBalanceSheet-2020,7-9OverallEnergyBalanceSheet-OverallEnergyBalanceSheet-2021,7-9OverallEnergyBalanceSheet-OverallEnergyBalanceSheet-2022,7-9OverallEnergyBalanceSheet-OverallEnergyBalanceSheet-(10000tonsofSCE)-2023
+,,,,,,
+Total Available Energy for Consumption,Total Energy Available for Consumption,41390.0,43649.0,45935.1,48166.9,52589.3
+Primary Energy Production,Primary Energy Production,13499.5,13213.4,13030.9,13587.7,15183.3
+"Imported from Other Provinces (Regions, Cities)",Allocation from Other Provinces,36082.7,31945.4,34226.9,31743.7,60413.4
+Import Volume,Imports,14622.4,16554.2,14571.6,13935.0,28649.0
+"Outflow to Other Provinces (Regions, Municipalities) (-)",Allocation to Other Provinces(-),-22325.9,-18377.8,-14938.5,-11857.4,-52370.2
+Export Quantity (-),Exports(-),-49.1,-2.6,-94.3,-258.5,-248.3
+Beginning and End-of-Year Inventory Difference,Stock Changes in the Year,-439.7,316.5,-862.0,1016.4,962.2
+Total Energy Consumption,Total Energy Consumption,41390.0,43649.0,45935.1,48166.9,52589.3
+In the total:,Consumption by sector,0.0,,,,
+"1. Agriculture, Forestry, Animal Husbandry, and Fishery","1.Agriculture,Forestry,Animal Husbandry
+          and Fishery",599.7,574.6,583.1,625.7,682.1
+2. Industry,2.Industry,31293.7,33627.4,35353.4,37050.7,40544.5
+3. Construction Industry,3.Construction,481.4,500.6,535.3,534.8,567.6
+"4. Transportation, Storage, and Postal Services","4.Transport,Storage and Post",2381.8,2037.9,2181.8,2276.4,2462.5
+"5. Wholesale and Retail Trade, Accommodation and Catering Industry","5.Wholesale and Retail Trades,Hotels and
+           Catering Services",986.7,978.3,1073.3,1056.8,1191.5
+6. Other Industries,6.Other Sectors,1454.4,1491.2,1613.1,1715.5,1843.5
+7. Residential Consumption,7.Household Consumption,4192.4,4439.1,4595.1,4907.1,5297.7
+In the total:,Consumption by Usage,0.0,,,,
+(1) Terminal Consumption,(Ⅰ)End-use Consumption,40359.4,42981.6,45156.0,47313.6,52381.2
+# Industry,Industry,30263.1,32960.0,34574.3,36197.5,40337.3
+(II) Processing and Conversion Losses,"(Ⅱ)Losses During the Process of 
+              Energy Conversion",1030.6,667.4,779.1,853.2,207.2
+Coking,Coking,3.0,341.0,327.0,311.2,81.7
+Refining,Petroleum Refining,1622.5,923.3,1018.6,1061.6,973.3
+(3) Loss Quantity,(Ⅲ)Energy Losses,0.0,,,,0.9
+Balance Difference,Balance,0.0,0.0,,,0.0
+,,,,,,
+,,,,,,
+Note: This table uses equivalent conversion coefficients to convert to standard coal.,,,,,,
+a) Data of standard coal equivalent are calculated on the basis of the consumed heat value equivalent.,,,,,,

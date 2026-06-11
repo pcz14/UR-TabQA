@@ -1,0 +1,15 @@
+Serial Number,Product Name,Model Number,Location,Specification,Historical inventory quantity,"Annual Inbound
+Effectiveness",Annual outbound quantity,"Current inventory
+effectiveness",Unit Price,Remaining inventory total value,Remarks
+1,Product 1,*/5588,1st,59*120,800,1568.0,2150.0,218,399.0,86982,
+2,Product 2,*/5589,2号,59*121,241,1000.0,125.0,1116,400.0,446400,
+3,Product 3,*/5590,3号,59*122,255,2000.0,652.0,1603,401.0,642803,
+4,Product 4,*/5591,4号,59*123,887,2210.0,654.0,2443,402.0,962086,
+5,Product 5,*/5592,"5号 translates to ""5th"" or ""No. 5"" in English. Depending on the context, it could also be ""5th position"" or ""Position 5."" Since it's likely referring to a position or location in the context of a table or list, the most appropriate translation would be **""No. 5""** or **""Position 5.""**",59*124,554,2547.0,236.0,2065,403.0,1154595,
+6,Product 6,*/5593,"6号 translates to ""6th"" or ""No. 6"". In the context of the given table, it likely refers to a location or position, so the appropriate translation would be ""No. 6"".",59*125,111,854.0,587.0,378,404.0,152712,
+7,Product 7,*/5594,"7号 translates to ""7th"" or ""No. 7"" in English. Depending on the context, it could also be ""7th"" if referring to an order or sequence. Since the context is not provided, the most neutral translation is:
+
+**No. 7**",59*126,222,152.0,125.0,249,405.0,100845,
+8,Product 8,*/5595,"8号 translates to ""8th"" or ""No. 8"". In the context of the provided table, it likely refers to a location or position, so the appropriate translation would be ""No. 8"".",52*127,654,574.0,45.0,1383,406.0,581498,
+9,Product 9,*/5596,"9号 translates to ""9th"" or ""No. 9"". In the context of the given table, it likely refers to a location or position, so the appropriate translation would be ""No. 9"".",59*128,S84,578.0,52.0,1110,407.0,451770,
+10,,,,,,,,0,,Blood,

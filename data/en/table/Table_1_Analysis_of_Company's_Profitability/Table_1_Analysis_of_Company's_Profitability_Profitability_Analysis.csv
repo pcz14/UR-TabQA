@@ -1,0 +1,15 @@
+CompanyProfitabilityAnalysisTable-Month,CompanyProfitabilityAnalysisTable-2020,CompanyProfitabilityAnalysisTable-2020.1,CompanyProfitabilityAnalysisTable-2020.2,CompanyProfitabilityAnalysisTable-2020.3,CompanyProfitabilityAnalysisTable-2020.4,CompanyProfitabilityAnalysisTable-2019,CompanyProfitabilityAnalysisTable-2019.1,CompanyProfitabilityAnalysisTable-2019.2,CompanyProfitabilityAnalysisTable-2019.3,CompanyProfitabilityAnalysisTable-2019.4,CompanyProfitabilityAnalysisTable-ProfitYear-over-YearGrowthAmount,CompanyProfitabilityAnalysisTable-ProfitGrowthRateComparedtoSamePeriodLastYear,CompanyProfitabilityAnalysisTable-ProfitRingRatioGrowthAmount,CompanyProfitabilityAnalysisTable-ProfitMarginGrowthRateMonth-over-Month
+Month,Sales Revenue,Cost and expenses,Total Profit,Sales Profit Margin,Cost Profit Margin,Sales Revenue,Cost and expenses,Total Profit,Sales Profit Margin,Cost Profit Margin,Profit Year-over-Year Growth Amount,Profit Growth Rate Compared to Same Period Last Year,Profit Ring Ratio Growth Amount,Profit Margin Growth Rate Month-over-Month
+January,3094226,2812000,,,,2494223,2297754,,,,,,,
+February,909408,990638,,,,849405,614638,,,,,,,
+March,1658425,1515939,,,,1508422,1645936,,,,,,,
+April,2955068,2360155,,,,2724066,2262151,,,,,,,
+May,3552676,2658028,,,,3122676,2508028,,,,,,,
+June,2368525,2322428,,,,1277524,1502420,,,,,,,
+July,2173128,2137485,,,,1773105,2037445,,,,,,,
+August,3011170,2958649,,,,3011176,2263647,,,,,,,
+September,2280556,2300685,,,,1980555,2200599,,,,,,,
+October,2425270,2452338,,,,1625279,1742338,,,,,,,
+November,2910110,2886298,,,,2330150,1946298,,,,,,,
+December,3089299,2907885,,,,2889295,2705000,,,,,,,
+Total,,,,,,,,,,,,,,

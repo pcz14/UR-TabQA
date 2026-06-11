@@ -1,0 +1,23 @@
+Serial Number,Date,Commodity Name,Specification Model,Unit,Quantity,Unit Price,Amount,Salesperson,Notes,Ranking,Salesperson.1,Sales Amount
+1,2023/1/1,Product 1,2023,Table,5,￥200.00,"￥1,000.00",Dao Xiaoke1,Remark 1,3,Dao Xiaoke1,"￥4,150.00"
+2,2023/2/2,Product 2,2024,Table,6,￥201.00,"￥1,206.00",Dao Xiaoke2,Remark 2,2,Dao Xiaoke2,"￥4,582.00"
+3,2023/3/15,Product 3,2025,Table,7,￥202.00,"￥1,414.00",Dao Xiaoke3,Remark3,1,Dao Xiaoke3,"￥5,018.00"
+4,2023/4/4,Product 4,2026,Table,8,￥203.00,"￥1,624.00",Rao Xiaoke4,Remark 4,10,Rao Xiaoke4,"￥1,624.00"
+5,2023/5/5,Product 5,2027,Table,9,￥204.00,"￥1,836.00",Dao Xiaoke5,Remark 5,9,Dao Xiaoke5,"￥1,836.00"
+6,2023/6/6,Product 6,2028,Table,10,￥205.00,"￥2,050.00",Dao Xiaoke6,Remark 6,8,Dao Xiaoke6,"￥2,050.00"
+7,2023/7/7,Product 7,2029,Table,11,￥206.00,"￥2,266.00",Dao Xiaoke7,Remark 7,7,Dao Xiaoke7,"￥2,266.00"
+8,2023/8/8,Product 8,2030,Table,12,￥207.00,"￥2,484.00",Rao Xiaoke8,Remark 8,6,Rao Xiaoke8,"￥2,484.00"
+9,2023/9/9,Product 9,2031,Table,13,￥208.00,"￥2,704.00",Rao Xiaoke9,Remark 9,5,Rao Xiaoke9,"￥2,704.00"
+10,2023/10/10,Product 10,2032,Table,14,￥209.00,"￥2,926.00",Dao Xiaoke 10,Remark10,4,Dao Xiaoke 10,"￥2,926.00"
+11,2023/11/11,Product 1,2033,Table,15,￥210.00,"￥3,150.00",Dao Xiaoke1,Remark 11,11,Dao Xiaoke11,￥0.00
+12,2023/12/12,Product 3,2034,Table,16,￥211.00,"￥3,376.00",Dao Xiaoke2,Remark12,11,Dao Xiaoke12,￥0.00
+13,2023/3/15,Product 2,2035,Table,17,￥212.00,"￥3,604.00",Dao Xiaoke3,Remark13,11,Dao Xiaoke13,￥0.00
+14,2023/10/10,Product 1,2036,Table,18,￥213.00,"￥3,834.00",Rao Xiaoke4,Remark14,11,Dao Xiaoke14,￥0.00
+15,2023/11/11,Product 2,2037,Table,19,¥214.00,"￥4,066.00",Dao Xiaoke5,Remark15,11,Dao Xiaoke15,￥0.00
+16,2023/12/12,Product 3,2038,Table,20,￥215.00,"￥4,300.00",Dao Xiaoke6,Remark16,11,Dao Xiaoke16,￥0.00
+17,2023/3/15,Product 4,2039,Table,21,￥216.00,"￥4,536.00",Dao Xiaoke7,Remark 17,11,Dao Xiaoke17,￥0.00
+18,2023/10/10,Product 5,2040,Table,22,￥217.00,"￥4,774.00",Rao Xiaoke8,Remark 18,11,Dao Xiaoke 18,￥0.00
+19,2023/11/11,Product 6,2041,Table,23,￥218.00,"￥5,014.00",Rao Xiaoke9,Remark 19,11,Dao Xiaoke 19,￥0.00
+20,2023/12/12,Product 7,2042,Table,24,￥219.00,"￥5,256.00",Dao Xiaoke 10,Remark 20,11,Dao Xiaoke 20,￥0.00
+21,2023/3/15,Product 8,2043,Table,25,￥220.00,"￥5,500.00",Dao Xiaoke1,Remark 21,11,Dao Xiaoke21,￥0.00
+22,2023/10/10,Product 9,2044,Table,26,￥221.00,"￥5,746.00",Dao Xiaoke2,Remark 22,11,Dao Xiaoke22,￥0.00
